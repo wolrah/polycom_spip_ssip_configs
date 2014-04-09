@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+	<phrase i="0" t="Terug"/>
+	<phrase i="1" t="Bellen"/>
+	<phrase i="2" t="Contact bewerken"/>
+	<phrase i="3" t="bewerken"/>
+	<phrase i="4" t="Omhoog"/>
+	<phrase i="5" t="Opslaan"/>
+	<phrase i="6" t="meer"/>
+	<phrase i="7" t="Nieuw"/>
+	<phrase i="8" t="Ok"/>
+	<phrase i="9" t="Toevoegen"/>
+	<phrase i="10" t="Wissen"/>
+	<phrase i="11" t="Info"/>
+	<phrase i="12" t="Verzenden"/>
+	<phrase i="13" t="Selecteren"/>
+	<phrase i="14" t="Verwijderen"/>
+	<phrase i="15" t="Importeren"/>
+	<phrase i="16" t="Blokken"/>
+	<phrase i="17" t="Watchen"/>
+	<phrase i="18" t="Ontblokken"/>
+	<phrase i="19" t="Mijn stat"/>
+	<phrase i="20" t="Buddys"/>
+	<phrase i="21" t="Hervatten"/>
+	<phrase i="22" t="Afspelen"/>
+	<phrase i="23" t="EindeGesprek"/>
+	<phrase i="24" t="NieuwGesprek"/>
+	<phrase i="25" t="Opnieuw kiezen"/>
+	<phrase i="26" t="Opnemen"/>
+	<phrase i="27" t="Naam"/>
+	<phrase i="28" t="Nummer"/>
+	<phrase i="29" t="Hold"/>
+	<phrase i="30" t="Verzamelgesprek"/>
+	<phrase i="31" t="Overzetten"/>
+	<phrase i="32" t="Einde"/>
+	<phrase i="33" t="Volgende"/>
+	<phrase i="34" t="Vorige"/>
+	<phrase i="35" t="Antwoord"/>
+	<phrase i="36" t="Afsluiten"/>
+	<phrase i="37" t="Annuleren"/>
+	<phrase i="38" t="a-&gt;A"/>
+	<phrase i="39" t="A-&gt;a"/>
+	<phrase i="40" t="-&gt;ABC"/>
+	<phrase i="41" t="&lt;&lt;"/>
+	<phrase i="42" t="Indienen"/>
+	<phrase i="43" t="Volgende pag."/>
+	<phrase i="44" t="Bijwerken"/>
+	<phrase i="45" t="Instantberichten"/>
+	<phrase i="46" t="Geen berichten"/>
+	<phrase i="47" t="Bericht verzenden naar:"/>
+	<phrase i="48" t="Bericht invoeren"/>
+	<phrase i="49" t="Mijn status"/>
+	<phrase i="50" t="Directory"/>
+	<phrase i="51" t="Directory's"/>
+	<phrase i="52" t="Service"/>
+	<phrase i="53" t="Service’s"/>
+	<phrase i="54" t="Snelkies"/>
+	<phrase i="55" t="Snelkies-info"/>
+	<phrase i="56" t="Telefoonlijsten"/>
+	<phrase i="57" t="Contact bewerken"/>
+	<phrase i="58" t="Watchen-lijst"/>
+	<phrase i="59" t="Watcher-lijst"/>
+	<phrase i="60" t="Geblokt-lijst"/>
+	<phrase i="61" t="Gemiste gesprekken"/>
+	<phrase i="62" t="Ontvangen gesprekken"/>
+	<phrase i="63" t="Gemaakte gesprekken"/>
+	<phrase i="64" t="Bericht verzenden naar"/>
+	<phrase i="65" t="Toep. informatie"/>
+	<phrase i="66" t="Ondersteunde codecs"/>
+	<phrase i="67" t="Aan watchen-lijst toevoegen"/>
+	<phrase i="68" t="Netwerkoverzicht"/>
+	<phrase i="69" t="Buddy-lijsten"/>
+	<phrase i="70" t="Buddy-status"/>
+	<phrase i="71" t="Beltype"/>
+	<phrase i="72" t="Status"/>
+	<phrase i="73" t="Instellingen"/>
+	<phrase i="74" t="Hoofdmenu"/>
+	<phrase i="75" t="Netwerkstatistieken"/>
+	<phrase i="76" t="Gespreksstatistieken"/>
+	<phrase i="77" t="Firmware-versie"/>
+	<phrase i="78" t="Contrast"/>
+	<phrase i="79" t="Netwerkconfiguratie"/>
+	<phrase i="80" t="Gespreksinformatie"/>
+	<phrase i="81" t="Informatie"/>
+	<phrase i="82" t="Systeeminformatie"/>
+	<phrase i="83" t="Actief "/>
+	<phrase i="84" t="Inactief "/>
+	<phrase i="85" t="Onbekende beller"/>
+	<phrase i="86" t="dag"/>
+	<phrase i="87" t="dagen"/>
+	<phrase i="88" t="Verzoek om..."/>
+	<phrase i="89" t="Verzoek afgewezen."/>
+	<phrase i="90" t="Engels"/>
+	<phrase i="91" t="Intern"/>
+	<phrase i="92" t="Full-duplex"/>
+	<phrase i="93" t="Half-duplex"/>
+	<phrase i="94" t="(Weergave)"/>
+	<phrase i="95" t="*** WAARSCHUWING ***"/>
+	<phrase i="96" t="Routebepaler"/>
+	<phrase i="97" t="Omlaag"/>
+	<phrase i="98" t="Tijd verstreken"/>
+	<phrase i="99" t="Pakk. ontv."/>
+	<phrase i="100" t="Pakk. overgez."/>
+	<phrase i="101" t="Gemiste pakk."/>
+	<phrase i="102" t="LAN-poort "/>
+	<phrase i="103" t="PC-poort "/>
+	<phrase i="104" t="InstBer."/>
+	<phrase i="105" t="Oorsprong specificeren"/>
+	<phrase i="106" t="Activeren"/>
+	<phrase i="107" t="Jitter  (ms)"/>
+	<phrase i="108" t="Max. jitter (ms)"/>
+	<phrase i="109" t="Latentie (ms)"/>
+	<phrase i="110" t="Toep. rev.."/>
+	<phrase i="111" t="Boot-rev."/>
+	<phrase i="112" t="Ring"/>
+	<phrase i="113" t="Geen vermeldingen"/>
+	<phrase i="114" t="Gemiste gesprekken"/>
+	<phrase i="115" t="Ontvangen gesprekken"/>
+	<phrase i="116" t="Gemaakte gesprekken"/>
+	<phrase i="117" t="Gewist"/>
+	<phrase i="118" t="Verbinding"/>
+	<phrase i="119" t="’s middags"/>
+	<phrase i="120" t="’s morgens"/>
+	<phrase i="121" t="Tijd"/>
+	<phrase i="122" t="Naam"/>
+	<phrase i="123" t="Tijdsduur"/>
+	<phrase i="124" t="zegt:"/>
+	<phrase i="125" t="Bericht voor"/>
+	<phrase i="126" t="Bericht ontvangen."/>
+	<phrase i="127" t="Bel me op."/>
+	<phrase i="128" t="Bel later."/>
+	<phrase i="129" t="Kan nu niet praten."/>
+	<phrase i="130" t="Lunchen?"/>
+	<phrase i="131" t="Geïmporteerd"/>
+	<phrase i="132" t="Importeren mislukte"/>
+	<phrase i="133" t="Taal"/>
+	<phrase i="134" t="Nummer invoeren"/>
+	<phrase i="135" t="URL invoeren"/>
+	<phrase i="136" t="Bezig met verbinden naar:"/>
+	<phrase i="137" t="Binnenkomend gesprek van:"/>
+	<phrase i="138" t="Naar"/>
+	<phrase i="139" t="Van"/>
+	<phrase i="140" t="Doorzenden"/>
+	<phrase i="141" t="Voor"/>
+	<phrase i="142" t="Hold"/>
+	<phrase i="143" t="Wachtstatus"/>
+	<phrase i="144" t="Nieuw bericht"/>
+	<phrase i="145" t="Nieuwe berichten"/>
+	<phrase i="146" t="Gesprek"/>
+	<phrase i="147" t="Netwerkverbinding is uitgeschakeld"/>
+	<phrase i="148" t="Begonnen met rebooten"/>
+	<phrase i="149" t="Nieuw gemist gesprek"/>
+	<phrase i="150" t="Nieuwe gemiste gesprekken"/>
+	<phrase i="151" t="Begonnen met rebooten"/>
+	<phrase i="152" t="Gesprek op wachtstatus"/>
+	<phrase i="153" t="Verbroken"/>
+	<phrase i="154" t="Online"/>
+	<phrase i="155" t="In gesprek"/>
+	<phrase i="156" t="Ben zo terug"/>
+	<phrase i="157" t="Weg"/>
+	<phrase i="158" t="Aan de telefoon"/>
+	<phrase i="159" t="Uit lunchen"/>
+	<phrase i="160" t="In een vergadering"/>
+	<phrase i="161" t="Offline"/>
+	<phrase i="162" t="Niet storen"/>
+	<phrase i="163" t="Time-out:"/>
+	<phrase i="164" t="Bootserver:"/>
+	<phrase i="165" t="Bootserv. optie:"/>
+	<phrase i="166" t="BootSrv Type:"/>
+	<phrase i="167" t="Bootserv. type:"/>
+	<phrase i="168" t="Serveradres:"/>
+	<phrase i="169" t="FTP-gebruiker:"/>
+	<phrase i="170" t="FTP-wachtwoord:"/>
+	<phrase i="171" t="DHCP-client:"/>
+	<phrase i="172" t="DHCP-menu:"/>
+	<phrase i="173" t="IP-adres telefoon:"/>
+	<phrase i="174" t="Subnetmasker:"/>
+	<phrase i="175" t="IP-gateway:"/>
+	<phrase i="176" t="Servermenu:"/>
+	<phrase i="177" t="SNTP-adres:"/>
+	<phrase i="178" t="GMT-offset:"/>
+	<phrase i="179" t="DNS-server:"/>
+	<phrase i="180" t="DNS altern. server:"/>
+	<phrase i="181" t="DNS-domein:"/>
+	<phrase i="182" t="VLAN-ID:"/>
+	<phrase i="183" t="Configuratie opslaan"/>
+	<phrase i="184" t="Afsluiten zonder opslaan"/>
+	<phrase i="185" t="Setup hervatten"/>
+	<phrase i="186" t="DHCP"/>
+	<phrase i="187" t="MAC"/>
+	<phrase i="188" t="IP"/>
+	<phrase i="189" t="DNS"/>
+	<phrase i="190" t="Bootserver:"/>
+	<phrase i="191" t="Altern. DNS"/>
+	<phrase i="192" t=" Optie 66"/>
+	<phrase i="193" t="Aangepast"/>
+	<phrase i="194" t="Statisch"/>
+	<phrase i="195" t="IP-adres"/>
+	<phrase i="196" t="String"/>
+	<phrase i="197" t="FTP"/>
+	<phrase i="198" t="Triviale FTP"/>
+	<phrase i="199" t="Ingeschakeld"/>
+	<phrase i="200" t="Uitgeschakeld"/>
+	<phrase i="201" t="Masker"/>
+	<phrase i="202" t="Routebepaler"/>
+	<phrase i="203" t="Domein"/>
+	<phrase i="204" t="VLAN-ID:"/>
+	<phrase i="205" t="Server"/>
+	<phrase i="206" t="Appl. verw."/>
+	<phrase i="207" t="Bestand "/>
+	<phrase i="208" t="Config."/>
+	<phrase i="209" t="Bootrom"/>
+	<phrase i="210" t="Hardw. ond.nr."/>
+	<phrase i="211" t="TxCodec "/>
+	<phrase i="212" t="RxCodec "/>
+	<phrase i="213" t="Taal gewijzigd."/>
+	<phrase i="214" t="Taalwijziging mislukte."/>
+	<phrase i="215" t="Eén ogenblik..."/>
+	<phrase i="216" t="Lijn-select"/>
+	<phrase i="217" t="Lijn"/>
+	<phrase i="218" t="Zoeken"/>
+	<phrase i="219" t="Sortering"/>
+	<phrase i="220" t="Zoekopdracht telefoonboek"/>
+	<phrase i="221" t="Telefoonboeksortering"/>
+	<phrase i="222" t="Voornaam"/>
+	<phrase i="223" t="Achternaam"/>
+	<phrase i="224" t="Systeemstatus"/>
+	<phrase i="225" t="Algemeen"/>
+	<phrase i="226" t="Contactdirectory"/>
+	<phrase i="227" t="Bezig met verbinding maken"/>
+	<phrase i="228" t="Klant+Opt. 66"/>
+	<phrase i="229" t="Server Status"/>
+	<phrase i="230" t="Geregistreerd"/>
+	<phrase i="231" t="Niet geregistreerd"/>
+	<phrase i="232" t="Authenticatie"/>
+	<phrase i="233" t="Reg. gebruiker"/>
+	<phrase i="234" t="Reg. wachtwoord"/>
+	<phrase i="235" t="Video"/>
+	<phrase i="236" t="Berichten"/>
+	<phrase i="237" t="Berichtencentrum"/>
+	<phrase i="238" t="Bezig met verzamelgesprek"/>
+	<phrase i="239" t="Dringend"/>
+	<phrase i="240" t="Dringend"/>
+	<phrase i="241" t="Nieuw"/>
+	<phrase i="242" t="Nieuw"/>
+	<phrase i="243" t="Oud"/>
+	<phrase i="244" t="Oud"/>
+	<phrase i="245" t="Verbinden"/>
+	<phrase i="246" t="Telefoonboek toevoegen"/>
+	<phrase i="247" t="Contact bewerken"/>
+	<phrase i="248" t="Snelkiesindex"/>
+	<phrase i="249" t="Gespreksomleiding"/>
+	<phrase i="250" t="Weigeren"/>
+	<phrase i="251" t="Omleiden"/>
+	<phrase i="252" t="Dit gesprek"/>
+	<phrase i="253" t="Gebruikersinstellingen resetten"/>
+	<phrase i="254" t="Contact omleiden"/>
+	<phrase i="255" t="Automatische weigering"/>
+	<phrase i="256" t="Automatische omleiding"/>
+	<phrase i="257" t="Opgeslagen"/>
+	<phrase i="258" t="Fout"/>
+	<phrase i="259" t="Contact bestaat reeds."/>
+	<phrase i="260" t="Uitschakele"/>
+	<phrase i="261" t="Buddy controleren"/>
+	<phrase i="262" t="Buddy blokkeren"/>
+	<phrase i="263" t="Opnieuw proberen a.u.b."/>
+	<phrase i="264" t="Klok"/>
+	<phrase i="265" t="Datum"/>
+	<phrase i="266" t="Opmaak"/>
+	<phrase i="267" t="zondag"/>
+	<phrase i="268" t="maandag"/>
+	<phrase i="269" t="dinsdag"/>
+	<phrase i="270" t="woensdag"/>
+	<phrase i="271" t="donderdag"/>
+	<phrase i="272" t="vrijdag"/>
+	<phrase i="273" t="zaterdag"/>
+	<phrase i="274" t="januari"/>
+	<phrase i="275" t="februari"/>
+	<phrase i="276" t="maart"/>
+	<phrase i="277" t="april"/>
+	<phrase i="278" t="mei"/>
+	<phrase i="279" t="juni"/>
+	<phrase i="280" t="juli"/>
+	<phrase i="281" t="augustus"/>
+	<phrase i="282" t="september"/>
+	<phrase i="283" t="oktober"/>
+	<phrase i="284" t="november"/>
+	<phrase i="285" t="december"/>
+	<phrase i="286" t="Tijd op de klok"/>
+	<phrase i="287" t="Alles instellen"/>
+	<phrase i="288" t="Alles wissen"/>
+	<phrase i="289" t="Headset-instelling"/>
+	<phrase i="290" t="Automatische headset-modus"/>
+	<phrase i="291" t="Fout tijdens het importeren."/>
+	<phrase i="292" t="Actief gesprek, actie geannuleerd."/>
+	<phrase i="293" t="Contact invoeren a.u.b."/>
+	<phrase i="294" t="Overzetten naar:"/>
+	<phrase i="295" t="Telefonisch vergadergesprek naar:"/>
+	<phrase i="296" t="Invoeren"/>
+	<phrase i="297" t="Wachtwoord wijzigen:"/>
+	<phrase i="298" t="Gebruikerswachtwoord wijzigen:"/>
+	<phrase i="299" t="Administratiewachtwoord wijzigen:"/>
+	<phrase i="300" t="Gebruikerswachtwoord:"/>
+	<phrase i="301" t="Administratorswachtwoord:"/>
+	<phrase i="302" t="Gebruikerswachtwoord gewijzigd."/>
+	<phrase i="303" t="Admin. wachtwoord gewijzigd."/>
+	<phrase i="304" t="Sorry; opnieuw proberen a.u.b. "/>
+	<phrase i="305" t="Oud wachtwoord"/>
+	<phrase i="306" t="Nieuw wachtwoord "/>
+	<phrase i="307" t="Wachtwoord bevestigen"/>
+	<phrase i="308" t="Sorry; wachtwoord is te kort."/>
+	<phrase i="309" t="VorigPag"/>
+	<phrase i="310" t="ASCII"/>
+	<phrase i="311" t="Latin"/>
+	<phrase i="312" t="Cyrillic"/>
+	<phrase i="313" t="Unicode"/>
+	<phrase i="314" t="Minimumlengte is"/>
+	<phrase i="315" t="1/A/a"/>
+	<phrase i="316" t="Gespreksbronnen niet beschikbaar."/>
+	<phrase i="317" t="Codering"/>
+	<phrase i="318" t="LAN-snelheid "/>
+	<phrase i="319" t="PC-snelheid"/>
+	<phrase i="320" t="Onbekend"/>
+	<phrase i="321" t="Knipperinstellingen opnieuw ingesteld."/>
+	<phrase i="322" t="LAN-modus "/>
+	<phrase i="323" t="PC-modus "/>
+	<phrase i="324" t="SNTP"/>
+	<phrase i="325" t="GMT"/>
+	<phrase i="326" t="Zomertijdregeling"/>
+	<phrase i="327" t="Aan"/>
+	<phrase i="328" t="Uit"/>
+	<phrase i="329" t="CPU-belasting"/>
+	<phrase i="330" t="Sneller"/>
+	<phrase i="331" t="Langzamer"/>
+	<phrase i="332" t="Laden"/>
+	<phrase i="333" t="Interval"/>
+	<phrase i="334" t="De directory is te groot."/>
+	<phrase i="335" t="Veld bestaat niet."/>
+	<phrase i="336" t="Einde directory."/>
+	<phrase i="337" t="Dit contact werd verwijderd."/>
+	<phrase i="338" t="Lijn wordt op afstand gebruikt"/>
+	<phrase i="339" t="Netwerkbelasting"/>
+	<phrase i="340" t="Bytes per seconde"/>
+	<phrase i="341" t="Pakketten per seconde"/>
+	<phrase i="342" t="Clock Order"/>
+	<phrase i="343" t="Date above time"/>
+	<phrase i="344" t="Time above date"/>
+	<phrase i="345" t="zon." /> 
+	<phrase i="346" t="maand." /> 
+	<phrase i="347" t="dinsd." /> 
+	<phrase i="348" t="woensd." /> 
+	<phrase i="349" t="donderd." /> 
+	<phrase i="350" t="vrijd." /> 
+	<phrase i="351" t="zat." /> 
+	<phrase i="352" t="jan" /> 
+	<phrase i="353" t="feb" /> 
+	<phrase i="354" t="mrt" /> 
+	<phrase i="355" t="apr" /> 
+	<phrase i="356" t="mei" /> 
+	<phrase i="357" t="jun" /> 
+	<phrase i="358" t="jul" /> 
+	<phrase i="359" t="aug" /> 
+	<phrase i="360" t="sep" /> 
+	<phrase i="361" t="okt" /> 
+	<phrase i="362" t="nov" /> 
+	<phrase i="363" t="dec" /> 
+</phrases>

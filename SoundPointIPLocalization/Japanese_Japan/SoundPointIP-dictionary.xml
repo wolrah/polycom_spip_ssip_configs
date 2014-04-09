@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+	<phrase i="0" t="戻る"/>
+	<phrase i="1" t="ダイアル"/>
+	<phrase i="2" t="連絡先の編集"/>
+	<phrase i="3" t="編集"/>
+	<phrase i="4" t="高"/>
+	<phrase i="5" t="保存"/>
+	<phrase i="6" t="詳細"/>
+	<phrase i="7" t="新規"/>
+	<phrase i="8" t="OK"/>
+	<phrase i="9" t="追加"/>
+	<phrase i="10" t="消去"/>
+	<phrase i="11" t="情報"/>
+	<phrase i="12" t="送信"/>
+	<phrase i="13" t="選択"/>
+	<phrase i="14" t="削除"/>
+	<phrase i="15" t="ｲﾝﾎﾟｰﾄ"/>
+	<phrase i="16" t="禁止"/>
+	<phrase i="17" t="登録"/>
+	<phrase i="18" t="禁止の解除"/>
+	<phrase i="19" t="状態"/>
+	<phrase i="20" t="メンバ"/>
+	<phrase i="21" t="再開"/>
+	<phrase i="22" t="再生"/>
+	<phrase i="23" t="通話終了"/>
+	<phrase i="24" t="新規通話"/>
+	<phrase i="25" t="ﾘﾀﾞｲｱﾙ"/>
+	<phrase i="26" t="応答"/>
+	<phrase i="27" t="URL"/>
+	<phrase i="28" t="電話番号"/>
+	<phrase i="29" t="保留"/>
+	<phrase i="30" t="会議"/>
+	<phrase i="31" t="転送"/>
+	<phrase i="32" t="最後へ"/>
+	<phrase i="33" t="次へ"/>
+	<phrase i="34" t="前へ"/>
+	<phrase i="35" t="返信"/>
+	<phrase i="36" t="終了"/>
+	<phrase i="37" t="ｷｬﾝｾﾙ"/>
+	<phrase i="38" t="a-&gt;A"/>
+	<phrase i="39" t="A-&gt;a"/>
+	<phrase i="40" t="-&gt;ABC"/>
+	<phrase i="41" t="&lt;&lt;"/>
+	<phrase i="42" t="送信"/>
+	<phrase i="43" t="次ﾍﾟｰｼﾞへ"/>
+	<phrase i="44" t="更新"/>
+	<phrase i="45" t="インスタント　メッセージ"/>
+	<phrase i="46" t="メッセージﾞなし"/>
+	<phrase i="47" t="メッセージﾞの送信:"/>
+	<phrase i="48" t="メッセージﾞの入力"/>
+	<phrase i="49" t="状態"/>
+	<phrase i="50" t="ディレクトリ"/>
+	<phrase i="51" t="ディレクトリ"/>
+	<phrase i="52" t="サービス"/>
+	<phrase i="53" t="サービス"/>
+	<phrase i="54" t="短縮ダイヤル"/>
+	<phrase i="55" t="短縮ダイヤル情報"/>
+	<phrase i="56" t="呼出一覧"/>
+	<phrase i="57" t="連絡先の編集"/>
+	<phrase i="58" t="登録メンバ一覧"/>
+	<phrase i="59" t="登録元一覧"/>
+	<phrase i="60" t="禁止メンバ一覧"/>
+	<phrase i="61" t="不在着信"/>
+	<phrase i="62" t="受信履歴"/>
+	<phrase i="63" t="発信履歴"/>
+	<phrase i="64" t="CDP:"/>
+	<phrase i="65" t="アプリケーション情報"/>
+	<phrase i="66" t="対応codecs"/>
+	<phrase i="67" t="登録メンバに追加"/>
+	<phrase i="68" t="ネットワークサマリー"/>
+	<phrase i="69" t="メンバﾞの一覧"/>
+	<phrase i="70" t="メンバの状態"/>
+	<phrase i="71" t="呼出音の種類"/>
+	<phrase i="72" t="ステータス"/>
+	<phrase i="73" t="設定"/>
+	<phrase i="74" t="メインメニュー"/>
+	<phrase i="75" t="ネットワーク統計情報"/>
+	<phrase i="76" t="通話統計情報"/>
+	<phrase i="77" t="ファームウェア　バージョン"/>
+	<phrase i="78" t="コントラスト"/>
+	<phrase i="79" t="ネットワーク設定"/>
+	<phrase i="80" t="通話情報"/>
+	<phrase i="81" t="情報"/>
+	<phrase i="82" t="システム情報"/>
+	<phrase i="83" t="アクティブ"/>
+	<phrase i="84" t="非アクティブ"/>
+	<phrase i="85" t="相手先不明"/>
+	<phrase i="86" t="日"/>
+	<phrase i="87" t="日"/>
+	<phrase i="88" t="要求中"/>
+	<phrase i="89" t="要求に失敗しました"/>
+	<phrase i="90" t="英語"/>
+	<phrase i="91" t="内蔵"/>
+	<phrase i="92" t="全二重"/>
+	<phrase i="93" t="半二重"/>
+	<phrase i="94" t="(表示)"/>
+	<phrase i="95" t="*** 警告 ***"/>
+	<phrase i="96" t="ルータ"/>
+	<phrase i="97" t="低"/>
+	<phrase i="98" t="経過時間"/>
+	<phrase i="99" t="PktRx"/>
+	<phrase i="100" t="PktTx"/>
+	<phrase i="101" t="PktMiss"/>
+	<phrase i="102" t="LAN ポート"/>
+	<phrase i="103" t="PC ポート"/>
+	<phrase i="104" t="IM"/>
+	<phrase i="105" t="発信元を指定"/>
+	<phrase i="106" t="使用可能に設定"/>
+	<phrase i="107" t="ジッタ (ms)"/>
+	<phrase i="108" t="最大ジッタ(ms)"/>
+	<phrase i="109" t="遅延 (ms)"/>
+	<phrase i="110" t="アプリケーションRev"/>
+	<phrase i="111" t="ブートRev"/>
+	<phrase i="112" t="呼出音"/>
+	<phrase i="113" t="記録なし"/>
+	<phrase i="114" t="不在着信一覧"/>
+	<phrase i="115" t="受信履歴"/>
+	<phrase i="116" t="発信履歴"/>
+	<phrase i="117" t="消去しました"/>
+	<phrase i="118" t="連絡先"/>
+	<phrase i="119" t="午後"/>
+	<phrase i="120" t="午前"/>
+	<phrase i="121" t="時刻"/>
+	<phrase i="122" t="名前"/>
+	<phrase i="123" t="期間"/>
+	<phrase i="124" t=":の発言"/>
+	<phrase i="125" t=":あてのメッセージ"/>
+	<phrase i="126" t="メッセージを受け取りました"/>
+	<phrase i="127" t="電話をください"/>
+	<phrase i="128" t="後で電話をください"/>
+	<phrase i="129" t="今チャットできません"/>
+	<phrase i="130" t="お昼にしますか?"/>
+	<phrase i="131" t="インポート完了"/>
+	<phrase i="132" t="インポートに失敗しました"/>
+	<phrase i="133" t="言語"/>
+	<phrase i="134" t="番号の入力"/>
+	<phrase i="135" t="URLの入力"/>
+	<phrase i="136" t="接続中:"/>
+	<phrase i="137" t=":着信中"/>
+	<phrase i="138" t="宛先"/>
+	<phrase i="139" t="差出人"/>
+	<phrase i="140" t="転送"/>
+	<phrase i="141" t="件名"/>
+	<phrase i="142" t="保留"/>
+	<phrase i="143" t="保留しました"/>
+	<phrase i="144" t="新着メッセージ"/>
+	<phrase i="145" t="新着メッセージ"/>
+	<phrase i="146" t="呼び出し"/>
+	<phrase i="147" t="Networkリンクダウン！"/>
+	<phrase i="148" t="Network再設定中"/>
+	<phrase i="149" t="不在着信　新規"/>
+	<phrase i="150" t="不在着信　新規"/>
+	<phrase i="151" t="リブートが開始されました"/>
+	<phrase i="152" t="保留"/>
+	<phrase i="153" t="切断されました"/>
+	<phrase i="154" t="オンライン"/>
+	<phrase i="155" t="取り込み中"/>
+	<phrase i="156" t="一時退席中"/>
+	<phrase i="157" t="退席中"/>
+	<phrase i="158" t="電話中"/>
+	<phrase i="159" t="昼休み"/>
+	<phrase i="160" t="会議中"/>
+	<phrase i="161" t="オフライン"/>
+	<phrase i="162" t="応答拒否"/>
+	<phrase i="163" t="タイムアウト:"/>
+	<phrase i="164" t="ブートサーバー:"/>
+	<phrase i="165" t="ブートサーバー オプション:"/>
+	<phrase i="166" t="ブートサーバーの種類:"/>
+	<phrase i="167" t="サーバーの種類:"/>
+	<phrase i="168" t="サーバーのアドレス:"/>
+	<phrase i="168" t="FTP ユーザー:"/>
+	<phrase i="170" t="FTP パスワード:"/>
+	<phrase i="171" t="DHCPクライアント:"/>
+	<phrase i="172" t="DHCP メニュー:"/>
+	<phrase i="173" t="電話 IP アドレス:"/>
+	<phrase i="174" t="サブネットマスク:"/>
+	<phrase i="175" t="IP ゲートウェイ:"/>
+	<phrase i="176" t="サーバーメニュー:"/>
+	<phrase i="177" t="SNTP アドレス:"/>
+	<phrase i="178" t="GMT オフセット:"/>
+	<phrase i="179" t="DNS サーバー:"/>
+	<phrase i="180" t="DNS 代替サーバー:"/>
+	<phrase i="181" t="DNS ドメイン:"/>
+	<phrase i="182" t="VLAN Id:"/>
+	<phrase i="183" t="設定の保存"/>
+	<phrase i="184" t="保存しないで終了"/>
+	<phrase i="185" t="セットアップの再開"/>
+	<phrase i="186" t="DHCP"/>
+	<phrase i="187" t="MAC"/>
+	<phrase i="188" t="IP"/>
+	<phrase i="189" t="DNS"/>
+	<phrase i="190" t="ブートサーバー"/>
+	<phrase i="191" t="代替 DNS"/>
+	<phrase i="192" t="オプション66"/>
+	<phrase i="193" t="カスタム"/>
+	<phrase i="194" t="静的"/>
+	<phrase i="195" t="IP アドレス"/>
+	<phrase i="196" t="文字列"/>
+	<phrase i="197" t="FTP"/>
+	<phrase i="198" t="Trivial FTP"/>
+	<phrase i="199" t="使用可能"/>
+	<phrase i="200" t="使用不可"/>
+	<phrase i="201" t="マスク"/>
+	<phrase i="202" t="ルータ"/>
+	<phrase i="203" t="ドメイン"/>
+	<phrase i="204" t="VLan Id"/>
+	<phrase i="205" t="サーバー"/>
+	<phrase i="206" t="アプリケーションVer"/>
+	<phrase i="207" t="ファイル"/>
+	<phrase i="208" t="設定"/>
+	<phrase i="209" t="Bootrom"/>
+	<phrase i="210" t="P/N"/>
+	<phrase i="211" t="TxCodec"/>
+	<phrase i="212" t="RxCodec"/>
+	<phrase i="213" t="言語が変更されました"/>
+	<phrase i="214" t="言語の変更に失敗しました"/>
+	<phrase i="215" t="お待ちください..."/>
+	<phrase i="216" t="回線の選択"/>
+	<phrase i="217" t="回線"/>
+	<phrase i="218" t="検索"/>
+	<phrase i="219" t="ソート"/>
+	<phrase i="220" t="ディレクトリの検索"/>
+	<phrase i="221" t="ディレクトリのソート"/>
+	<phrase i="222" t="名"/>
+	<phrase i="223" t="姓"/>
+	<phrase i="224" t="システム ステータス"/>
+	<phrase i="225" t="一般"/>
+	<phrase i="226" t="連絡先ディレクトリ"/>
+	<phrase i="227" t="連絡中"/>
+	<phrase i="228" t="カスタム+オプション 66"/>
+	<phrase i="229" t="サーバー ステータス"/>
+	<phrase i="230" t="登録済"/>
+	<phrase i="231" t="未登録"/>
+	<phrase i="232" t="認証"/>
+	<phrase i="233" t="登録ユーザー"/>
+	<phrase i="234" t="登録パスワード"/>
+	<phrase i="235" t="ビデオ"/>
+	<phrase i="236" t="メッセージ"/>
+	<phrase i="237" t="メッセージ センター"/>
+	<phrase i="238" t="会議通話中"/>
+	<phrase i="239" t="至急"/>
+	<phrase i="240" t="至急"/>
+	<phrase i="241" t="新規 "/>
+	<phrase i="242" t="新規"/>
+	<phrase i="243" t="古い"/>
+	<phrase i="244" t="古い"/>
+	<phrase i="245" t="接続"/>
+	<phrase i="246" t="ディレクトリの追加"/>
+	<phrase i="247" t="連絡先の編集"/>
+	<phrase i="248" t="短縮ダイヤル インデックス"/>
+	<phrase i="249" t="通話の着信転送"/>
+	<phrase i="250" t="拒否"/>
+	<phrase i="251" t="着信転送"/>
+	<phrase i="252" t="この通話"/>
+	<phrase i="253" t="ユーザー設定のリセット"/>
+	<phrase i="254" t="着信転送先番号"/>
+	<phrase i="255" t="自動拒否"/>
+	<phrase i="256" t="自動着信転送"/>
+	<phrase i="257" t="保存しました"/>
+	<phrase i="258" t="エラー"/>
+	<phrase i="259" t="連絡先がすでに存在します"/>
+	<phrase i="260" t="使用不可に設定"/>
+	<phrase i="261" t="メンバの登録"/>
+	<phrase i="262" t="メンバ禁止"/>
+	<phrase i="263" t="後でやり直してください"/>
+	<phrase i="264" t="日時"/>
+	<phrase i="265" t="日付"/>
+	<phrase i="266" t="フォーマット"/>
+	<phrase i="267" t="(日)"/>
+	<phrase i="268" t="(月)"/>
+	<phrase i="269" t="(火)"/>
+	<phrase i="270" t="(水)"/>
+	<phrase i="271" t="(木)"/>
+	<phrase i="272" t="(金)"/>
+	<phrase i="273" t="(土)"/>
+	<phrase i="274" t="1-"/>
+	<phrase i="275" t="2-"/>
+	<phrase i="276" t="3-"/>
+	<phrase i="277" t="4-"/>
+	<phrase i="278" t="5-"/>
+	<phrase i="279" t="6-"/>
+	<phrase i="280" t="7-"/>
+	<phrase i="281" t="8-"/>
+	<phrase i="282" t="9-"/>
+	<phrase i="283" t="10-"/>
+	<phrase i="284" t="11-"/>
+	<phrase i="285" t="12-"/>
+	<phrase i="286" t="時刻"/>
+	<phrase i="287" t="全てを設定"/>
+	<phrase i="288" t="全てを消去"/>
+	<phrase i="289" t="ヘッドセットの設定"/>
+	<phrase i="290" t="自動ヘッドセット モード"/>
+	<phrase i="291" t="インポート中にエラーが発生しました"/>
+	<phrase i="292" t="アクティブな通話です この操作は中止されました"/>
+	<phrase i="293" t="連絡先を入力してください"/>
+	<phrase i="294" t="転送先:"/>
+	<phrase i="295" t="会議の通話先:"/>
+	<phrase i="296" t="入力"/>
+	<phrase i="297" t="パスワードの変更:"/>
+	<phrase i="298" t="ユーザー パスワードの変更:"/>
+	<phrase i="299" t="管理者パスワードの変更:"/>
+	<phrase i="300" t="ユーザー パスワード:"/>
+	<phrase i="301" t="管理者パスワード"/>
+	<phrase i="302" t="ユーザー パスワードが変更されました"/>
+	<phrase i="303" t="管理者パスワードが変更されました"/>
+	<phrase i="304" t="後でやり直してください"/>
+	<phrase i="305" t="現在のパスワード"/>
+	<phrase i="306" t="新しいパスワード"/>
+	<phrase i="307" t="パスワードの確認"/>
+	<phrase i="308" t="パスワードが短すぎます"/>
+	<phrase i="309" t="前ページへ"/>
+	<phrase i="310" t="ASCII"/>
+	<phrase i="311" t="ラテン"/>
+	<phrase i="312" t="キリル言語"/>
+	<phrase i="313" t="Unicode"/>
+	<phrase i="314" t="最小値"/>
+	<phrase i="315" t="1/A/a"/>
+	<phrase i="316" t="通話リソースが使用できません"/>
+	<phrase i="317" t="ｴﾝｺｰﾄﾞ"/>
+	<phrase i="318" t="LAN スピード"/>
+	<phrase i="319" t="PC スピード"/>
+	<phrase i="320" t="不明 "/>
+	<phrase i="321" t="フラッシュの設定がリセットされました"/>
+	<phrase i="322" t="LAN モード "/>
+	<phrase i="323" t="PC モード "/>
+	<phrase i="324" t="SNTP"/>
+	<phrase i="325" t="GMT"/>
+	<phrase i="326" t="夏時間"/>
+	<phrase i="327" t="オン"/>
+	<phrase i="328" t="オフ"/>
+	<phrase i="329" t="CPU 負荷"/>
+	<phrase i="330" t="高速"/>
+	<phrase i="331" t="低速"/>
+	<phrase i="332" t="ロード"/>
+	<phrase i="333" t="間隔"/>
+	<phrase i="334" t="ディレクトリが大きすぎます"/>
+	<phrase i="335" t="そのようなフィールドはありません"/>
+	<phrase i="336" t="ディレクトリの終わり"/>
+	<phrase i="337" t="この連絡先は削除されました"/>
+	<phrase i="338" t="回線がリモートから使われています"/>
+	<phrase i="339" t="ネットワーク負荷"/>
+	<phrase i="340" t="バイト/秒"/>
+	<phrase i="341" t="パケット/秒"/>
+	<phrase i="342" t="表示オプション"/>
+	<phrase i="343" t="日付－時間"/>
+	<phrase i="344" t="時間－日付"/>
+	<phrase i="345" t="日曜日"/>
+	<phrase i="346" t="月曜日"/>
+	<phrase i="347" t="火曜日"/>
+	<phrase i="348" t="水曜日"/>
+	<phrase i="349" t="木曜日"/>
+	<phrase i="350" t="金曜日"/>
+	<phrase i="351" t="土曜日"/>
+	<phrase i="352" t="1月"/>
+	<phrase i="353" t="2月"/>
+	<phrase i="354" t="3月"/>
+	<phrase i="355" t="4月"/>
+	<phrase i="356" t="5月"/>
+	<phrase i="357" t="6月"/>
+	<phrase i="358" t="7月"/>
+	<phrase i="359" t="8月"/>
+	<phrase i="360" t="9月"/>
+	<phrase i="361" t="10月"/>
+	<phrase i="362" t="11月"/>
+	<phrase i="363" t="12月"/>
+</phrases>

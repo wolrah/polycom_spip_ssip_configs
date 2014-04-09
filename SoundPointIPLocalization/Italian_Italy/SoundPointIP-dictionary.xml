@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+	<phrase i="0" t="Indietro"/>
+	<phrase i="1" t="Comporre"/>
+	<phrase i="2" t="Edit il contatto"/>
+	<phrase i="3" t="Edit"/>
+	<phrase i="4" t="Sopra"/>
+	<phrase i="5" t="Salva"/>
+	<phrase i="6" t="ulteriori scelte"/>
+	<phrase i="7" t="Nuovo"/>
+	<phrase i="8" t="Ok"/>
+	<phrase i="9" t="Aggiungi"/>
+	<phrase i="10" t="Rimuove"/>
+	<phrase i="11" t="Invia"/>
+	<phrase i="12" t="Invia"/>
+	<phrase i="13" t="Seleziona"/>
+	<phrase i="14" t="Cancella"/>
+	<phrase i="15" t="Importa"/>
+	<phrase i="16" t="Blocca"/>
+	<phrase i="17" t="Guarda"/>
+	<phrase i="18" t="Sblocca"/>
+	<phrase i="19" t="Il mio stato "/>
+	<phrase i="20" t="Colleghi"/>
+	<phrase i="21" t="Riprendere"/>
+	<phrase i="22" t="Avvio"/>
+	<phrase i="23" t="Fine chiamata"/>
+	<phrase i="24" t="Nuova chiamata"/>
+	<phrase i="25" t="Ricomponi"/>
+	<phrase i="26" t="Rispondi"/>
+	<phrase i="27" t="Nome"/>
+	<phrase i="28" t="Numero"/>
+	<phrase i="29" t="Attesa"/>
+	<phrase i="30" t="Conferenza"/>
+	<phrase i="31" t="Trasferim"/>
+	<phrase i="32" t="Fine"/>
+	<phrase i="33" t="Prossimo"/>
+	<phrase i="34" t="Prec"/>
+	<phrase i="35" t="Risposta"/>
+	<phrase i="36" t="Uscita"/>
+	<phrase i="37" t="Cancella"/>
+	<phrase i="38" t="a-&gt;A"/>
+	<phrase i="39" t="A-&gt;a"/>
+	<phrase i="40" t="-&gt;ABC"/>
+	<phrase i="41" t="&lt;&lt;"/>
+	<phrase i="42" t="Sottometti"/>
+	<phrase i="43" t="Pag. seguente"/>
+	<phrase i="44" t="Aggiornamento"/>
+	<phrase i="45" t="Messaggi istantanei"/>
+	<phrase i="46" t="Nessun messaggio"/>
+	<phrase i="47" t="Invia il messaggio a:"/>
+	<phrase i="48" t="Scrivi il messaggio"/>
+	<phrase i="49" t="Il mio stato"/>
+	<phrase i="50" t="Elenco"/>
+	<phrase i="51" t="Elenci"/>
+	<phrase i="52" t="Servizio "/>
+	<phrase i="53" t="Servizi"/>
+	<phrase i="54" t="Accesso Veloce"/>
+	<phrase i="55" t="Informazioni sull’accesso veloce"/>
+	<phrase i="56" t="Elenchi delle chiamate"/>
+	<phrase i="57" t="Edit il contatto"/>
+	<phrase i="58" t="Lista utenti osservati"/>
+	<phrase i="59" t="Lista osservatori "/>
+	<phrase i="60" t="Lista bloccata"/>
+	<phrase i="62" t="Chiamate perse"/>
+	<phrase i="62" t="Chiamate ricevute"/>
+	<phrase i="63" t="Chiamate assegnate"/>
+	<phrase i="64" t="Invia il messaggio a"/>
+	<phrase i="65" t="Informazione dell’applicaz"/>
+	<phrase i="66" t="Codec Supportati"/>
+	<phrase i="67" t="Aggiungi alla lista osservanti"/>
+	<phrase i="68" t="Somario del Network"/>
+	<phrase i="69" t="Lista colleghi"/>
+	<phrase i="70" t="Stato dei colleghi"/>
+	<phrase i="71" t="Tipo di suono"/>
+	<phrase i="72" t="Stato"/>
+	<phrase i="73" t="Installazioni"/>
+	<phrase i="74" t="Menu principale"/>
+	<phrase i="75" t="Statistiche di Network"/>
+	<phrase i="76" t="Statistiche delle chiamate"/>
+	<phrase i="77" t="Versione Firmware"/>
+	<phrase i="78" t="Contrasto"/>
+	<phrase i="79" t="Configurazione Network"/>
+	<phrase i="80" t="Chiama le informazioni"/>
+	<phrase i="81" t="Informazioni"/>
+	<phrase i="82" t="Informazione di sistema"/>
+	<phrase i="83" t="Attivo"/>
+	<phrase i="84" t="Inattivo"/>
+	<phrase i="85" t="Parte sconosciuta"/>
+	<phrase i="86" t="giorno"/>
+	<phrase i="87" t="giorni"/>
+	<phrase i="88" t="Richiedere..."/>
+	<phrase i="89" t="Richiesta errata."/>
+	<phrase i="90" t="Inglese"/>
+	<phrase i="91" t="Interno"/>
+	<phrase i="92" t="Duplex-bidirezionale"/>
+	<phrase i="93" t="Duplex-unidirezionale"/>
+	<phrase i="94" t="(Vista)"/>
+	<phrase i="95" t="*** AVVERTENZA ***"/>
+	<phrase i="96" t="Instradatore"/>
+	<phrase i="97" t="Fuori servizio"/>
+	<phrase i="98" t="Tempo trascorso"/>
+	<phrase i="99" t="Pacchetti ricevuti"/>
+	<phrase i="100" t="Pacchetti trasmessi"/>
+	<phrase i="101" t="Pacchetti mancati"/>
+	<phrase i="102" t="Porta LAN"/>
+	<phrase i="103" t="Porta PC"/>
+	<phrase i="104" t="Mess. Istant."/>
+	<phrase i="105" t="Specificare l’origine"/>
+	<phrase i="106" t="Attivato"/>
+	<phrase i="107" t="Jitter (ms)"/>
+	<phrase i="108" t="MaxJitter (ms)"/>
+	<phrase i="109" t="Latenza (ms)"/>
+	<phrase i="110" t="Revis. Applicaz."/>
+	<phrase i="111" t="Revis. Avvio."/>
+	<phrase i="112" t="Suono"/>
+	<phrase i="113" t="Nessuna registrazione"/>
+	<phrase i="114" t="Lista delle chiamate non pervenuta"/>
+	<phrase i="115" t="Ricevuta la lista delle chiamate"/>
+	<phrase i="116" t="Collocata la lista delle chiamate"/>
+	<phrase i="117" t="Cancellato"/>
+	<phrase i="118" t="Contatto"/>
+	<phrase i="119" t="p.m."/>
+	<phrase i="120" t="a.m."/>
+	<phrase i="121" t="Ora"/>
+	<phrase i="122" t="Nome"/>
+	<phrase i="123" t="Durata"/>
+	<phrase i="124" t="dice:"/>
+	<phrase i="125" t="Messaggio per"/>
+	<phrase i="126" t="Ho ricevuto il tuo messaggio."/>
+	<phrase i="127" t="Chiamami."/>
+	<phrase i="128" t="Chiamare dopo."/>
+	<phrase i="129" t="Non posso ciattare ora."/>
+	<phrase i="130" t="Vai a pranzo?"/>
+	<phrase i="131" t="Importato"/>
+	<phrase i="132" t="Importo guasto"/>
+	<phrase i="133" t="Lingua"/>
+	<phrase i="134" t="digitare un numero"/>
+	<phrase i="135" t="Entrare in URL"/>
+	<phrase i="136" t="Connettersi a:"/>
+	<phrase i="137" t="Chiamata in arrivo da:"/>
+	<phrase i="138" t="A"/>
+	<phrase i="139" t="Da"/>
+	<phrase i="140" t="Invia a"/>
+	<phrase i="141" t="Per"/>
+	<phrase i="142" t="Attesa"/>
+	<phrase i="143" t="In attesa"/>
+	<phrase i="144" t="Nuovo messaggio"/>
+	<phrase i="145" t="Nuovi messaggi"/>
+	<phrase i="146" t="Chiamata"/>
+	<phrase i="147" t="Link del network fuori servizio"/>
+	<phrase i="148" t="Riconfigurazione network"/>
+	<phrase i="149" t="Chiamata nuova persa "/>
+	<phrase i="150" t="Chiamate nuove perse "/>
+	<phrase i="151" t="Iniziato il riavvio"/>
+	<phrase i="152" t="Chiamata in attesa"/>
+	<phrase i="153" t="Disconnesso"/>
+	<phrase i="154" t="Online"/>
+	<phrase i="155" t="Occupato"/>
+	<phrase i="156" t="Ritorno subito"/>
+	<phrase i="157" t="Via"/>
+	<phrase i="158" t="Al telefono"/>
+	<phrase i="159" t="A pranzo"/>
+	<phrase i="160" t="In riunione"/>
+	<phrase i="161" t="Offline"/>
+	<phrase i="162" t="Non disturbare"/>
+	<phrase i="163" t="Timeout:"/>
+	<phrase i="164" t="Avvio del server:"/>
+	<phrase i="165" t="Opz. avvio del server:"/>
+	<phrase i="166" t="Tipo di avvio del server:"/>
+	<phrase i="167" t="Tipo di server:"/>
+	<phrase i="168" t="Indirizzo del server:"/>
+	<phrase i="169" t="Utente FTP:"/>
+	<phrase i="170" t="Codice FTP:"/>
+	<phrase i="171" t="Cliente DHCP:"/>
+	<phrase i="172" t="Menu DHCP:"/>
+	<phrase i="173" t="Indirizzo IP Tel:"/>
+	<phrase i="174" t="Maschera di sottorete:"/>
+	<phrase i="175" t="Collegamento IP:"/>
+	<phrase i="176" t="Menu del server:"/>
+	<phrase i="177" t="Indirizzo SNTP:"/>
+	<phrase i="178" t="Scostamento GMT:"/>
+	<phrase i="179" t="Server DNS:"/>
+	<phrase i="180" t="Server alternativo DNS:"/>
+	<phrase i="181" t="Dominio DNS:"/>
+	<phrase i="182" t="Id VLAN:"/>
+	<phrase i="183" t="Salva la configurazione"/>
+	<phrase i="184" t="Esci senza salvare"/>
+	<phrase i="185" t="Riprendere l’installazione"/>
+	<phrase i="186" t="DHCP"/>
+	<phrase i="187" t="MAC"/>
+	<phrase i="188" t="IP"/>
+	<phrase i="189" t="DNS"/>
+	<phrase i="190" t="Avvio del server:"/>
+	<phrase i="191" t="DNS Alternativo"/>
+	<phrase i="192" t="Opzione 66"/>
+	<phrase i="193" t="Personalizzato"/>
+	<phrase i="194" t="Statico"/>
+	<phrase i="195" t="Indirizzo IP"/>
+	<phrase i="196" t="Stringa"/>
+	<phrase i="197" t="FTP"/>
+	<phrase i="198" t="Trivial FTP"/>
+	<phrase i="199" t="Attivato"/>
+	<phrase i="200" t="Disattivato"/>
+	<phrase i="201" t="Maschera"/>
+	<phrase i="202" t="Instradatore"/>
+	<phrase i="203" t="Dominio"/>
+	<phrase i="204" t="Id VLan"/>
+	<phrase i="205" t="Server"/>
+	<phrase i="206" t="Rif. Applicaz."/>
+	<phrase i="207" t="File"/>
+	<phrase i="208" t="Configuraz."/>
+	<phrase i="209" t="Rom di avvio "/>
+	<phrase i="210" t="N di parte di hardware"/>
+	<phrase i="211" t="Trasmettitore Codec"/>
+	<phrase i="212" t="Ricevitore Codec"/>
+	<phrase i="213" t="Lingua cambiata."/>
+	<phrase i="214" t="Errore nel cambio di lingua."/>
+	<phrase i="215" t="Attendere prego..."/>
+	<phrase i="216" t="Seleziona la linea "/>
+	<phrase i="217" t="Linea"/>
+	<phrase i="218" t="Cerca"/>
+	<phrase i="219" t="Scegli"/>
+	<phrase i="220" t="Cerca l’elenco"/>
+	<phrase i="221" t="Scegli l’elenco"/>
+	<phrase i="222" t="Nome"/>
+	<phrase i="223" t="Cognome"/>
+	<phrase i="224" t="Stato del sistema"/>
+	<phrase i="225" t="Generale"/>
+	<phrase i="226" t="Lista dei contatti"/>
+	<phrase i="227" t="Contattare..."/>
+	<phrase i="228" t="Su ordinaz.+Opz. 66"/>
+	<phrase i="229" t="Stato del Server "/>
+	<phrase i="230" t="Registrato"/>
+	<phrase i="231" t="Non-Registrato"/>
+	<phrase i="232" t="Autentificazione"/>
+	<phrase i="233" t="Registraz. utente"/>
+	<phrase i="234" t="Registraz. Parola codice"/>
+	<phrase i="235" t="Video"/>
+	<phrase i="236" t="Messaggi"/>
+	<phrase i="237" t="Centro messaggi"/>
+	<phrase i="238" t="In conferenza"/>
+	<phrase i="239" t="Urgente"/>
+	<phrase i="240" t="Urgenti"/>
+	<phrase i="241" t="Nuovo"/>
+	<phrase i="242" t="Nuovi"/>
+	<phrase i="243" t="Vecchio"/>
+	<phrase i="244" t="Vecchi"/>
+	<phrase i="245" t="Connesso"/>
+	<phrase i="246" t="Aggiungi elenchi"/>
+	<phrase i="247" t="Edit il contatto"/>
+	<phrase i="248" t="Indice Speed Dial"/>
+	<phrase i="249" t="Deviazione della chiamata"/>
+	<phrase i="250" t="Respinto"/>
+	<phrase i="251" t="Deviazione"/>
+	<phrase i="252" t="Questa chiamata"/>
+	<phrase i="253" t="Riavviare le posizioni dell’utente"/>
+	<phrase i="254" t="Deviazione del contatto"/>
+	<phrase i="255" t="Auto scarto"/>
+	<phrase i="256" t="Auto deviazione"/>
+	<phrase i="257" t="Salvato"/>
+	<phrase i="258" t="Errore"/>
+	<phrase i="259" t="Il contatto già esiste."/>
+	<phrase i="260" t="Disabilitare"/>
+	<phrase i="261" t="Osserva la chiamata"/>
+	<phrase i="262" t="Blocca la chiamata"/>
+	<phrase i="263" t="Siete pregato di riprovare."/>
+	<phrase i="264" t="Orologio"/>
+	<phrase i="265" t="Data"/>
+	<phrase i="266" t="Formato"/>
+	<phrase i="267" t="Domenica"/>
+	<phrase i="268" t="Lunedì"/>
+	<phrase i="269" t="Martedì"/>
+	<phrase i="270" t="Mercoledì"/>
+	<phrase i="271" t="Giovedì"/>
+	<phrase i="272" t="Venerdì"/>
+	<phrase i="273" t="Sabato"/>
+	<phrase i="274" t="Gennaio"/>
+	<phrase i="275" t="Febbraio"/>
+	<phrase i="276" t="Marzo"/>
+	<phrase i="277" t="Aprile"/>
+	<phrase i="278" t="Maggio"/>
+	<phrase i="279" t="Giugno"/>
+	<phrase i="280" t="Luglio"/>
+	<phrase i="281" t="Agosto"/>
+	<phrase i="282" t="Settembre"/>
+	<phrase i="283" t="Ottobre"/>
+	<phrase i="284" t="Novembre"/>
+	<phrase i="285" t="Dicembre"/>
+	<phrase i="286" t="Ora"/>
+	<phrase i="287" t="Programma tutto"/>
+	<phrase i="288" t="Rimuovi tutto"/>
+	<phrase i="289" t="Installazione della cuffia"/>
+	<phrase i="290" t="Rilevazione automatica del modo della cuffia"/>
+	<phrase i="291" t="Errore durante l’importo."/>
+	<phrase i="292" t="Chiamata attiva, azione abortita."/>
+	<phrase i="293" t="Siete pregato di digitare il contatto."/>
+	<phrase i="294" t="Trasferire a:"/>
+	<phrase i="295" t="Conferenza per:"/>
+	<phrase i="296" t="Entra"/>
+	<phrase i="297" t="Cambia la parola d’ordine: "/>
+	<phrase i="298" t="Cambia la parola d’ordine dell’utente"/>
+	<phrase i="299" t="Cambia la parola d’ordine dell’amministr. "/>
+	<phrase i="300" t="Parola d’ordine dell’utente: "/>
+	<phrase i="301" t="Parola d’ordine dell’amministr.:"/>
+	<phrase i="302" t="Codice dell’utente cambiato."/>
+	<phrase i="303" t="Codice dell’Ammin. cambiato."/>
+	<phrase i="304" t="Spiacente, siete pregato di provare di nuovo."/>
+	<phrase i="305" t="Vecchia parola d’ordine"/>
+	<phrase i="306" t="Nuova parola d’ordine"/>
+	<phrase i="307" t="Conferma la parola d’ordine"/>
+	<phrase i="308" t="Spiacente, il codice è troppo corto."/>
+	<phrase i="309" t="Pag. Prec. "/>
+	<phrase i="310" t="ASCII"/>
+	<phrase i="311" t="Latino"/>
+	<phrase i="312" t="Cirillico"/>
+	<phrase i="313" t="Unicode"/>
+	<phrase i="314" t="La lunghezza minima è"/>
+	<phrase i="315" t="1/A/a"/>
+	<phrase i="316" t="Risorse della chiamata non disponibili."/>
+	<phrase i="317" t="Codificare"/>
+	<phrase i="318" t="Velocità LAN"/>
+	<phrase i="319" t=" Velocità PC "/>
+	<phrase i="320" t="Sconosciuto "/>
+	<phrase i="321" t=" Reset per Assestamenti Flash."/>
+	<phrase i="322" t="Modo LAN "/>
+	<phrase i="323" t="Modo PC "/>
+	<phrase i="324" t="SNTP"/>
+	<phrase i="325" t="GMT"/>
+	<phrase i="326" t="Orario legale"/>
+	<phrase i="327" t="Acceso"/>
+	<phrase i="328" t="Spento"/>
+	<phrase i="329" t="Carico CPU"/>
+	<phrase i="330" t="Più veloce"/>
+	<phrase i="331" t=" Più lento"/>
+	<phrase i="332" t="Caricamento"/>
+	<phrase i="333" t="Intervallo"/>
+	<phrase i="334" t="La lista è troppo lunga."/>
+	<phrase i="335" t="Tipo di campo inesistente."/>
+	<phrase i="336" t="Fine della lista."/>
+	<phrase i="337" t="Questo contatto è stato cancellato."/>
+	<phrase i="338" t="La linea è in uso in luogo remoto"/>
+	<phrase i="339" t="Carico del Network "/>
+	<phrase i="340" t="Byte al secondo"/>
+	<phrase i="341" t="Packet al secondo"/>
+	<phrase i="342" t="Clock Order"/>
+	<phrase i="343" t="Date above time"/>
+	<phrase i="344" t="Time above date"/>
+	<phrase i="345" t="Domenica" /> 
+	<phrase i="346" t="Lunedì" /> 
+	<phrase i="347" t="Martedì" /> 
+	<phrase i="348" t="Mercoledì" /> 
+	<phrase i="349" t="Giovedì" /> 
+	<phrase i="350" t="Venerdì" /> 
+	<phrase i="351" t="Sabato" /> 
+	<phrase i="352" t="Gennaio" /> 
+	<phrase i="353" t="Febbraio" /> 
+	<phrase i="354" t="Marzo" /> 
+	<phrase i="355" t="Aprile" /> 
+	<phrase i="356" t="Maggio" /> 
+	<phrase i="357" t="Giugno" /> 
+	<phrase i="358" t="Luglio" /> 
+	<phrase i="359" t="Agosto" /> 
+	<phrase i="360" t="Settembre" /> 
+	<phrase i="361" t="Ottobre" /> 
+	<phrase i="362" t="Novembre" /> 
+	<phrase i="363" t="Dicembre" /> 
+</phrases>
