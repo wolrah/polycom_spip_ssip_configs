@@ -119,8 +119,8 @@
 	<phrase i="116" t="Utgående samtal"/>
 	<phrase i="117" t="Raderat"/>
 	<phrase i="118" t="Nummer"/>
-	<phrase i="119" t="e.m."/>
-	<phrase i="120" t="f.m."/>
+	<phrase i="119" t="EM"/>
+	<phrase i="120" t="FM"/>
 	<phrase i="121" t="Tid"/>
 	<phrase i="122" t="Namn"/>
 	<phrase i="123" t="Samtalslängd"/>
@@ -144,13 +144,13 @@
 	<phrase i="141" t="För"/>
 	<phrase i="142" t="Håll"/>
 	<phrase i="143" t="Vänta"/>
-	<phrase i="144" t="Nytt meddelande"/>
-	<phrase i="145" t="Nya meddelanden"/>
+	<phrase i="144" t=" Nytt meddelande"/>
+	<phrase i="145" t=" Nya meddelanden"/>
 	<phrase i="146" t="Ring"/>
 	<phrase i="147" t="Nätverkslänk nere"/>
 	<phrase i="148" t="Uppsättning av nätverket"/>
-	<phrase i="149" t="Nytt missat Samtal"/>
-	<phrase i="150" t="Nya Missade Samtal"/>
+	<phrase i="149" t=" nytt missat Samtal"/>
+	<phrase i="150" t=" nya Missade Samtal"/>
 	<phrase i="151" t="Reboot initierad"/>
 	<phrase i="152" t="Samtal väntar"/>
 	<phrase i="153" t="Frånkopplad"/>
@@ -342,26 +342,92 @@
 	<phrase i="339" t="Nätverksbelastning"/>
 	<phrase i="340" t="Bytes per sekund"/>
 	<phrase i="341" t="Packet per sekund"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="Sön" /> 
-	<phrase i="346" t="Mån" /> 
-	<phrase i="347" t="Tis" /> 
-	<phrase i="348" t="Ons" /> 
-	<phrase i="349" t="Tor" /> 
-	<phrase i="350" t="Fre" /> 
-	<phrase i="351" t="Lör" /> 
-	<phrase i="352" t="Jan" /> 
-	<phrase i="353" t="Feb" /> 
-	<phrase i="354" t="Mar" /> 
-	<phrase i="355" t="Apr" /> 
-	<phrase i="356" t="Maj" /> 
-	<phrase i="357" t="Jun" /> 
-	<phrase i="358" t="Jul" /> 
-	<phrase i="359" t="Aug" /> 
-	<phrase i="360" t="Sep" /> 
-	<phrase i="361" t="Okt" /> 
-	<phrase i="362" t="Nov" /> 
-	<phrase i="363" t="Dec" /> 
+	<phrase i="342" t="DSP belastning"/>
+	<phrase i="343" t="Värd belastning"/>
+	<phrase i="344" t="Mod"/>
+	<phrase i="345" t="Hårdvarudiagnostik"/>
+	<phrase i="346" t="Audiodiagnostik"/>
+	<phrase i="347" t="Tangentbordsdiagnostik"/>
+	<phrase i="348" t="Displaydiagnostik"/>
+	<phrase i="349" t="Handsfree"/>
+	<phrase i="350" t="Telefonlur"/>
+	<phrase i="351" t="Godkänd"/>
+	<phrase i="352" t="Ej godkänd"/>
+	<phrase i="353" t='Test avslutad"'/>
+	<phrase i="354" t="Tryck samma tangent två gånger för att avsluta"/>
+	<phrase i="355" t="Tryck tangent för att verifiera funktion"/>
+	<phrase i="356" t="Avspelning"/>
+	<phrase i="357" t="Stopp"/>
+	<phrase i="358" t="Ogiltig tangent"/>
+	<phrase i="359" t="Klyka"/>
+	<phrase i="360" t="Avslutad"/>
+	<phrase i="361" t="Avspelning"/>
+	<phrase i="362" t="Inspelning"/>
+	<phrase i="363" t="Duplikat IP"/>
+	<phrase i="364" t="Reboot"/>
+	<phrase i="365" t="anmäld från"/>
+	<phrase i="366" t="Sön"/>
+	<phrase i="367" t="Mån"/>
+	<phrase i="368" t="Tis"/>
+	<phrase i="369" t="Ons"/>
+	<phrase i="370" t="Tor"/>
+	<phrase i="371" t="Fre"/>
+	<phrase i="372" t="Lör"/>
+	<phrase i="373" t="Jan"/>
+	<phrase i="374" t="Feb"/>
+	<phrase i="375" t="Mar"/>
+	<phrase i="376" t="Apr"/>
+	<phrase i="377" t="Maj"/>
+	<phrase i="378" t="Jun"/>
+	<phrase i="379" t="Jul"/>
+	<phrase i="380" t="Aug"/>
+	<phrase i="381" t="Sep"/>
+	<phrase i="382" t="Okt"/>
+	<phrase i="383" t="Nov"/>
+	<phrase i="384" t="Dec"/>
+	<phrase i="385" t="Minnesanvändning"/>
+	<phrase i="386" t="Aktivt samtal"/>
+	<phrase i="387" t="Tystnad"/>
+	<phrase i="388" t="Server ej tillgänglig."/>
+	<phrase i="389" t="Tidsbeställning"/>
+	<phrase i="390" t="Datera ovanstående tid"/>
+	<phrase i="391" t="Tidsangiv ovanstående datum"/>
+	<phrase i="392" t="Datum före tid"/>
+	<phrase i="393" t="Tid före datum"/>
+	<phrase i="394" t="Japanskt alfabet"/>
+	<phrase i="395" t="Statustoner för samtal"/>
+	<phrase i="396" t="Stör ej"/>
+	<phrase i="397" t="In/ut"/>
+	<phrase i="398" t="Tillgänglighet"/>
+	<phrase i="399" t="Ändra"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Display namn"/>
+	<phrase i="404" t="Linje information"/>
+	<phrase i="405" t="Etikett"/>
+	<phrase i="406" t="Påbörja tangentloggning"/>
+	<phrase i="407" t="Url samtal är bortkopplat"/>
+	<phrase i="408" t="Vänligen lyft telefonluren"/>
+	<phrase i="409" t="Avlyssningsmod"/>
+	<phrase i="410" t="Köa samtal"/>
+	<phrase i="411" t="Koppla upp köat samtal"/>
+	<phrase i="412" t="Koppla upp gruppsamtal"/>
+	<phrase i="413" t="Koppla upp samtal"/>
+	<phrase i="414" t="Hemposition"/>
+	<phrase i="415" t="Uppdatera"/>
+	<phrase i="416" t="Åter föreg. samtal"/>
+	<phrase i="417" t="Åter föreg. samtal"/>
+	<phrase i="418" t="Samtalsfunktioner"/>
+	<phrase i="419" t="Blind överföring"/>
+	<phrase i="420" t="Huvudmikrotelefon"/>
+	<phrase i="421" t="Agent tillgänglighet"/>
+	<phrase i="422" t="ACD Logga in Logga ut"/>
+	<phrase i="423" t="Logga in"/>
+	<phrase i="424" t="Logga ut"/>
+	<phrase i="425" t="Tillgänglighet"/>
+	<phrase i="426" t="Ej tillgänglig"/>
+	<phrase i="427" t="Användar ID:"/>
+	<phrase i="428" t="Lösenord:"/>
+	<phrase i="429" t="Koppla upp"/>
 </phrases>

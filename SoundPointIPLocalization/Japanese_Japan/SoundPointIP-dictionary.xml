@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <phrases>
 	<phrase i="0" t="戻る"/>
 	<phrase i="1" t="ダイアル"/>
@@ -6,7 +6,7 @@
 	<phrase i="3" t="編集"/>
 	<phrase i="4" t="高"/>
 	<phrase i="5" t="保存"/>
-	<phrase i="6" t="詳細"/>
+	<phrase i="6" t="その他"/>
 	<phrase i="7" t="新規"/>
 	<phrase i="8" t="OK"/>
 	<phrase i="9" t="追加"/>
@@ -345,23 +345,89 @@
 	<phrase i="342" t="表示オプション"/>
 	<phrase i="343" t="日付－時間"/>
 	<phrase i="344" t="時間－日付"/>
-	<phrase i="345" t="日曜日"/>
-	<phrase i="346" t="月曜日"/>
-	<phrase i="347" t="火曜日"/>
-	<phrase i="348" t="水曜日"/>
-	<phrase i="349" t="木曜日"/>
-	<phrase i="350" t="金曜日"/>
-	<phrase i="351" t="土曜日"/>
-	<phrase i="352" t="1月"/>
-	<phrase i="353" t="2月"/>
-	<phrase i="354" t="3月"/>
-	<phrase i="355" t="4月"/>
-	<phrase i="356" t="5月"/>
-	<phrase i="357" t="6月"/>
-	<phrase i="358" t="7月"/>
-	<phrase i="359" t="8月"/>
-	<phrase i="360" t="9月"/>
-	<phrase i="361" t="10月"/>
-	<phrase i="362" t="11月"/>
-	<phrase i="363" t="12月"/>
+	<phrase i="345" t="ハードウエア診断"/>
+	<phrase i="346" t="オーディオ診断"/>
+	<phrase i="347" t="キーパッド診断"/>
+	<phrase i="348" t="ディスプレイ装置診断"/>
+	<phrase i="349" t="ハンドフリー"/>
+	<phrase i="350" t="受話器"/>
+	<phrase i="351" t="成功しました"/>
+	<phrase i="352" t="失敗しました"/>
+	<phrase i="353" t="テストが終了しました"/>
+	<phrase i="354" t="終了するには同じキーを2回押します"/>
+	<phrase i="355" t="機能を確認するにはキーを押します"/>
+	<phrase i="356" t="録音"/>
+	<phrase i="357" t="停止"/>
+	<phrase i="358" t="無効なキー"/>
+	<phrase i="359" t="フックスイッチ"/>
+	<phrase i="360" t="停止しました"/>
+	<phrase i="361" t="再生中"/>
+	<phrase i="362" t="録音中"/>
+	<phrase i="363" t="重複IP"/>
+	<phrase i="364" t="リブート"/>
+	<phrase i="365" t="次から検出されました"/>
+	<phrase i="366" t="日曜日"/>
+	<phrase i="367" t="月曜日"/>
+	<phrase i="368" t="火曜日"/>
+	<phrase i="369" t="水曜日"/>
+	<phrase i="370" t="木曜日"/>
+	<phrase i="371" t="金曜日"/>
+	<phrase i="372" t="土曜日"/>
+	<phrase i="373" t="1月"/>
+	<phrase i="374" t="2月"/>
+	<phrase i="375" t="3月"/>
+	<phrase i="376" t="4月"/>
+	<phrase i="377" t="5月"/>
+	<phrase i="378" t="6月"/>
+	<phrase i="379" t="7月"/>
+	<phrase i="380" t="8月"/>
+	<phrase i="381" t="9月"/>
+	<phrase i="382" t="10月"/>
+	<phrase i="383" t="11月"/>
+	<phrase i="384" t="12月"/>
+	<phrase i="385" t="メモリ使用量"/>
+	<phrase i="386" t="アクティブな呼び出し"/>
+	<phrase i="387" t="無音"/>
+	<phrase i="388" t="サーバーが使用できません"/>
+	<phrase i="389" t="時計 順序"/>
+	<phrase i="390" t="日付の下に時刻を表示"/>
+	<phrase i="391" t="時刻の下に日付を表示"/>
+	<phrase i="392" t="日付 時刻の順に表示"/>
+	<phrase i="393" t="時刻 日付の順に表示"/>
+	<phrase i="394" t="カタカナ"/>
+	<phrase i="395" t="呼び出し音"/>
+	<phrase i="396" t="邪魔しないで"/>
+	<phrase i="397" t="イン･アウト"/>
+	<phrase i="398" t="アベイラビリティ"/>
+	<phrase i="399" t="変更"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="名前の表示"/>
+	<phrase i="404" t="回線情報"/>
+	<phrase i="405" t="ラベル"/>
+	<phrase i="406" t="キーパッドロギングの開始"/>
+	<phrase i="407" t="の呼び出しは使用不可に設定されています"/>
+	<phrase i="408" t="ハンドセットを取り上げてください"/>
+	<phrase i="409" t="聞くモード"/>
+	<phrase i="410" t="パーク"/>
+	<phrase i="411" t="パーク ピックアップ"/>
+	<phrase i="412" t="グループピックアップ"/>
+	<phrase i="413" t="コール ピックアップ"/>
+	<phrase i="414" t="ホーム"/>
+	<phrase i="415" t="更新"/>
+	<phrase i="416" t="最後にかかってきた電話に折り返し電話する"/>
+	<phrase i="417" t="最後にかかってきた電話に折り返し電話する"/>
+	<phrase i="418" t="通話機能"/>
+	<phrase i="419" t="ブラインド転送"/>
+	<phrase i="420" t="ヘッドセット"/>
+	<phrase i="421" t="エージェントのアベイラビリティ"/>
+	<phrase i="422" t="ACD ログインログアウト"/>
+	<phrase i="423" t="ログイン"/>
+	<phrase i="424" t="ログアウト"/>
+	<phrase i="425" t="使用可能"/>
+	<phrase i="426" t="使用不可"/>
+	<phrase i="427" t="ユーザー"/>
+	<phrase i="428" t="パスワード:"/>
+	<phrase i="429" t="ピックアップ"/>
 </phrases>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by Polycom Canada (Vancouver) (private) -->
 <phrases>
 	<phrase i="0" t="Tilbage"/>
 	<phrase i="1" t="Ring op"/>
@@ -119,8 +120,8 @@
 	<phrase i="116" t="Udførte opkald"/>
 	<phrase i="117" t="Slettet"/>
 	<phrase i="118" t="Kontakt"/>
-	<phrase i="119" t="p.m."/>
-	<phrase i="120" t="a.m."/>
+	<phrase i="119" t="PM"/>
+	<phrase i="120" t="AM"/>
 	<phrase i="121" t="Tidspunkt"/>
 	<phrase i="122" t="Navn"/>
 	<phrase i="123" t="Varighed"/>
@@ -144,13 +145,13 @@
 	<phrase i="141" t="Til"/>
 	<phrase i="142" t="Vent"/>
 	<phrase i="143" t="Parkeret"/>
-	<phrase i="144" t="Ny meddelelse"/>
-	<phrase i="145" t="Nye meddelelser"/>
+	<phrase i="144" t=" Ny meddelelse"/>
+	<phrase i="145" t=" Nye meddelelser"/>
 	<phrase i="146" t="Kald op"/>
 	<phrase i="147" t="Netværksforbindelsen er nede"/>
 	<phrase i="148" t="Genkonfigurér netværk"/>
-	<phrase i="149" t="Nyt mistet opkald"/>
-	<phrase i="150" t="Nye mistede opkald"/>
+	<phrase i="149" t=" nyt mistet opkald"/>
+	<phrase i="150" t=" nye mistede opkald"/>
 	<phrase i="151" t="Reboot Initiated"/>
 	<phrase i="152" t="Opkald parkeret"/>
 	<phrase i="153" t="Afbrudt"/>
@@ -342,26 +343,92 @@
 	<phrase i="339" t="Netværksbelastning"/>
 	<phrase i="340" t="Bytes pr. sekund"/>
 	<phrase i="341" t="Pakker pr. sekund"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="Søn"/>
-	<phrase i="346" t="Man"/> 
-	<phrase i="347" t="Tir"/> 
-	<phrase i="348" t="Ons"/> 
-	<phrase i="349" t="Tor"/> 
-	<phrase i="350" t="Fre"/> 
-	<phrase i="351" t="Lør"/> 
-	<phrase i="352" t="Jan"/> 
-	<phrase i="353" t="Feb"/> 
-	<phrase i="354" t="Mar"/> 
-	<phrase i="355" t="Apr"/> 
-	<phrase i="356" t="Maj"/> 
-	<phrase i="357" t="Jun"/> 
-	<phrase i="358" t="Jul"/> 
-	<phrase i="359" t="Aug"/> 
-	<phrase i="360" t="Sep"/> 
-	<phrase i="361" t="Okt"/> 
-	<phrase i="362" t="Nov"/> 
-	<phrase i="363" t="Dec"/> 
+	<phrase i="342" t="DSP-belastning"/>
+	<phrase i="343" t="CPU-belastning"/>
+	<phrase i="344" t="Modus"/>
+	<phrase i="345" t="Hardware-diagnostik"/>
+	<phrase i="346" t="Audio-diagnostik"/>
+	<phrase i="347" t="Tastatur-diagnostik"/>
+	<phrase i="348" t="Display-diagnostik"/>
+	<phrase i="349" t="Håndfri"/>
+	<phrase i="350" t="Telefonrør"/>
+	<phrase i="351" t="OK"/>
+	<phrase i="352" t="Fejl"/>
+	<phrase i="353" t="Test færdig"/>
+	<phrase i="354" t="Tryk den samme tast to gange for at afslutte"/>
+	<phrase i="355" t="Tryk på tast for at bekræfte funktion"/>
+	<phrase i="356" t="Optag"/>
+	<phrase i="357" t="Stop"/>
+	<phrase i="358" t="Ugyldig tast"/>
+	<phrase i="359" t="Gaffel"/>
+	<phrase i="360" t="Stoppet"/>
+	<phrase i="361" t="Afspiller"/>
+	<phrase i="362" t="Optagelse"/>
+	<phrase i="363" t="IP-adresse findes allerede"/>
+	<phrase i="364" t="Genstart"/>
+	<phrase i="365" t="Detekteret fra"/>
+	<phrase i="366" t="Søn"/>
+	<phrase i="367" t="Man"/>
+	<phrase i="368" t="Tir"/>
+	<phrase i="369" t="Ons"/>
+	<phrase i="370" t="Tor"/>
+	<phrase i="371" t="Fre"/>
+	<phrase i="372" t="Lør"/>
+	<phrase i="373" t="Jan"/>
+	<phrase i="374" t="Feb"/>
+	<phrase i="375" t="Mar"/>
+	<phrase i="376" t="Apr"/>
+	<phrase i="377" t="Maj"/>
+	<phrase i="378" t="Jun"/>
+	<phrase i="379" t="Jul"/>
+	<phrase i="380" t="Aug"/>
+	<phrase i="381" t="Sep"/>
+	<phrase i="382" t="Okt"/>
+	<phrase i="383" t="Nov"/>
+	<phrase i="384" t="Dec"/>
+	<phrase i="385" t="Hukommelsesforbrug"/>
+	<phrase i="386" t="Aktivt opkald"/>
+	<phrase i="387" t="Stille"/>
+	<phrase i="388" t="Server ikke tilgængelig"/>
+	<phrase i="389" t="Ur-rækkefølge"/>
+	<phrase i="390" t="Dato over tid"/>
+	<phrase i="391" t="Tid over dato"/>
+	<phrase i="392" t="Dato før tid"/>
+	<phrase i="393" t="Tid før dato"/>
+	<phrase i="394" t="Japansk tegnsæt"/>
+	<phrase i="395" t="Opkaldstoner"/>
+	<phrase i="396" t="V.I.F."/>
+	<phrase i="397" t="Chk ind/ud"/>
+	<phrase i="398" t="Agt. tilg."/>
+	<phrase i="399" t="Ret"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Vis navn"/>
+	<phrase i="404" t="Linieinformation"/>
+	<phrase i="405" t="Mærkat"/>
+	<phrase i="406" t="Begynd tastatur-optagelse"/>
+	<phrase i="407" t="URL-opkald"/>
+	<phrase i="408" t="Løft venligst røret"/>
+	<phrase i="409" t="Lytte-tilstand"/>
+	<phrase i="410" t="Parkér"/>
+	<phrase i="411" t="Besvar Pk."/>
+	<phrase i="412" t="Besvar Gr."/>
+	<phrase i="413" t="Besvar opkald"/>
+	<phrase i="414" t="Hjem"/>
+	<phrase i="415" t="Genopfrisk"/>
+	<phrase i="416" t="Sidste svar"/>
+	<phrase i="417" t="Sdst. sv."/>
+	<phrase i="418" t="Opkaldsmuligheder"/>
+	<phrase i="419" t="Vdr.stil."/>
+	<phrase i="420" t="Hovedsæt"/>
+	<phrase i="421" t="Agent-tilgængelighed"/>
+	<phrase i="422" t="KTO log ind log ud"/>
+	<phrase i="423" t="Log ind"/>
+	<phrase i="424" t="Log ud"/>
+	<phrase i="425" t="Tilgængelig"/>
+	<phrase i="426" t="Ikke tilgængelig"/>
+	<phrase i="427" t="Bruger-ID"/>
+	<phrase i="428" t="Adgangskode"/>
+	<phrase i="429" t="Besvar"/>
 </phrases>

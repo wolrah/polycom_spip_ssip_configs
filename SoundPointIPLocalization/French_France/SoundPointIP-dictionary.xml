@@ -55,7 +55,7 @@
 	<phrase i="52" t="Service"/>
 	<phrase i="53" t="Services"/>
 	<phrase i="54" t="Composition abrégée"/>
-	<phrase i="55" t="Information composition abrégée"/>
+	<phrase i="55" t="Composition abrégée"/>
 	<phrase i="56" t="Listes d&apos;appels"/>
 	<phrase i="57" t="Edition du numéro"/>
 	<phrase i="58" t="Liste util. regardés"/>
@@ -119,8 +119,8 @@
 	<phrase i="116" t="Liste d&apos;appels placés"/>
 	<phrase i="117" t="Effacé !!"/>
 	<phrase i="118" t="Contact"/>
-	<phrase i="119" t="p.m."/>
-	<phrase i="120" t="a.m."/>
+	<phrase i="119" t="PM"/>
+	<phrase i="120" t="AM"/>
 	<phrase i="121" t="Date"/>
 	<phrase i="122" t="Nom"/>
 	<phrase i="123" t="Durée"/>
@@ -250,7 +250,7 @@
 	<phrase i="247" t="Modifier le répertoire"/>
 	<phrase i="248" t="Index composition abrégée"/>
 	<phrase i="249" t="Diversification"/>
-	<phrase i="250" t="Rejecter"/>
+	<phrase i="250" t="Rejeter"/>
 	<phrase i="251" t="Diversifier"/>
 	<phrase i="252" t="Cet appel"/>
 	<phrase i="253" t="Réinit. la config. de l&apos;util."/>
@@ -342,26 +342,93 @@
 	<phrase i="339" t="Charge du réseau"/>
 	<phrase i="340" t="Octets par seconde"/>
 	<phrase i="341" t="Paquets par seconde"/>
-	<phrase i="342" t="Ordoner l&apos;horloge"/>
-	<phrase i="343" t="Date et puis heure"/>
-	<phrase i="344" t="Heure et puis date"/>
-	<phrase i="345" t="Dimanche" /> 
-	<phrase i="346" t="Lundi" /> 
-	<phrase i="347" t="Mardi" /> 
-	<phrase i="348" t="Mercredi" /> 
-	<phrase i="349" t="Jeudi" /> 
-	<phrase i="350" t="Vendredi" /> 
-	<phrase i="351" t="Samedi" /> 
-	<phrase i="352" t="Jan" />
-	<phrase i="353" t="Fév" />
-	<phrase i="354" t="Mars" />
-	<phrase i="355" t="Avril" />
-	<phrase i="356" t="Mai" />
-	<phrase i="357" t="Juin" />
-	<phrase i="358" t="Jul" />
-	<phrase i="359" t="Août" />
-	<phrase i="360" t="Sep" />
-	<phrase i="361" t="Oct" />
-	<phrase i="362" t="Nov" />
-	<phrase i="363" t="Déc" />
+	<phrase i="342" t="Charge du DSP"/>
+	<phrase i="343" t="Charge de l&apos;UPC"/>
+	<phrase i="344" t="Mode"/>
+	<phrase i="345" t="Diagnostique du matériel"/>
+	<phrase i="346" t="Diagnostique de la voix"/>
+	<phrase i="347" t="Diagnostique du clavier"/>
+	<phrase i="348" t="Diagnostique d&apos;écran"/>
+	<phrase i="349" t="Main libre"/>
+	<phrase i="350" t="Ecouteur"/>
+	<phrase i="351" t="Passé"/>
+	<phrase i="352" t="Manqué"/>
+	<phrase i="353" t="Test complété"/>
+	<phrase i="354" t="Terminer: pressez deux fois"/>
+	<phrase i="355" t="Vérification: pressez une touche"/>
+	<phrase i="356" t="Enregistrer"/>
+	<phrase i="357" t="Terminer"/>
+	<phrase i="358" t="Touche invalide"/>
+	<phrase i="359" t="Téléphone"/>
+	<phrase i="360" t="Terminé"/>
+	<phrase i="361" t="En train de jouer"/>
+	<phrase i="362" t="En train d&apos;enregistrer"/>
+	<phrase i="363" t="Addresse IP déjà utilisée"/>
+	<phrase i="364" t="Réinitialiser"/>
+	<phrase i="365" t="detectée"/>
+	<phrase i="366" t="Dimanche"/>
+	<phrase i="367" t="Lundi"/>
+	<phrase i="368" t="Mardi"/>
+	<phrase i="369" t="Mercredi"/>
+	<phrase i="370" t="Jeudi"/>
+	<phrase i="371" t="Vendredi"/>
+	<phrase i="372" t="Samedi"/>
+	<phrase i="373" t="Jan"/>
+	<phrase i="374" t="Fév"/>
+	<phrase i="375" t="Mars"/>
+	<phrase i="376" t="Avril"/>
+	<phrase i="377" t="Mai"/>
+	<phrase i="378" t="Juin"/>
+	<phrase i="379" t="Jul"/>
+	<phrase i="380" t="Août"/>
+	<phrase i="381" t="Sep"/>
+	<phrase i="382" t="Oct"/>
+	<phrase i="383" t="Nov"/>
+	<phrase i="384" t="Déc"/>
+	<phrase i="385" t="Usage de la mémoire"/>
+	<phrase i="386" t="Appel courant"/>
+	<phrase i="387" t="Silence"/>
+	<phrase i="388" t="Serveur non présent"/>
+	<phrase i="389" t="Ordoner l&apos;horloge"/>
+	<phrase i="390" t="Date sur heure"/>
+	<phrase i="391" t="Heure sur date"/>
+	<phrase i="392" t="Date puis heure"/>
+	<phrase i="393" t="Heure puis date"/>
+	<phrase i="394" t="Katakana"/>
+	<phrase i="395" t="Tonalités d&apos;appel"/>
+	<phrase i="396" t="NPD"/>
+	<phrase i="397" t="Prés/Abs"/>
+	<phrase i="398" t="Présence"/>
+	<phrase i="399" t="Remplacer"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Nom alloué"/>
+	<phrase i="404" t="Information de ligne"/>
+	<phrase i="405" t="Etiquette"/>
+	<phrase i="406" t="Début d&apos;enreg. séquence"/>
+	<phrase i="407" t="Appel par URL non autorisé"/>
+	<phrase i="408" t="Utiliser le combiné SVP"/>
+	<phrase i="409" t="Mode Ecoute"/>
+	<phrase i="410" t="Garer"/>
+    <phrase i="411" t="Récupérer"/>
+	<phrase i="412" t="Groupe"/>
+	<phrase i="413" t="Direct"/>
+	<phrase i="414" t="Domicile"/>
+	<phrase i="415" t="Rafraîchir"/>
+	<phrase i="416" t="Retour d&apos;appel"/>
+	<phrase i="417" t="RetApp"/>
+	<phrase i="418" t="Services d&apos;appel"/>
+	<phrase i="419" t="Aveugle"/>
+	<phrase i="420" t="Casque"/>
+	<phrase i="421" t="Status d&apos;agent"/>
+	<phrase i="422" t="Identification d&apos;ACD"/>
+	<phrase i="423" t="Identifier"/>
+	<phrase i="424" t="Sortir"/>
+	<phrase i="425" t="Présent"/>
+	<phrase i="426" t="Absent"/>
+	<phrase i="427" t="Identification:"/>
+	<phrase i="428" t="Mot de passe:"/>
+	<phrase i="429" t="Récupérer"/>
+	<phrase i="430" t="Passer en aveugle à:"/>
 </phrases>

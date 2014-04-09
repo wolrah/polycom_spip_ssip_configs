@@ -144,13 +144,13 @@
 	<phrase i="141" t="For"/>
 	<phrase i="142" t="Hold"/>
 	<phrase i="143" t="Ventende"/>
-	<phrase i="144" t="Ny besjked"/>
-	<phrase i="145" t="Nye beskjed"/>
+	<phrase i="144" t=" Ny besjked"/>
+	<phrase i="145" t=" Nye beskjed"/>
 	<phrase i="146" t="Oppringe"/>
 	<phrase i="147" t="Nettverk ledd er ned "/>
 	<phrase i="148" t="Nettverk omoppsettelse"/>
-	<phrase i="149" t="Ny Ubesvart Anrop"/>
-	<phrase i="150" t="Nye Ubesvart Anrop"/>
+	<phrase i="149" t=" ny Ubesvart Anrop"/>
+	<phrase i="150" t=" nye Ubesvart Anrop"/>
 	<phrase i="151" t="Restart påbegynt"/>
 	<phrase i="152" t="Anrop venter "/>
 	<phrase i="153" t="Avbrutt"/>
@@ -342,26 +342,92 @@
 	<phrase i="339" t="Nettverk belastning"/>
 	<phrase i="340" t="Byte pr. Sekund"/>
 	<phrase i="341" t="Pakker pr. Sekund"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="s¢n." /> 
-	<phrase i="346" t="man." /> 
-	<phrase i="347" t="tirs." /> 
-	<phrase i="348" t="ons." /> 
-	<phrase i="349" t="tors." /> 
-	<phrase i="350" t="fre." /> 
-	<phrase i="351" t="l¢r." /> 
-	<phrase i="352" t="jan." /> 
-	<phrase i="353" t="feb." /> 
-	<phrase i="354" t="mar." /> 
-	<phrase i="355" t="apr." /> 
-	<phrase i="356" t="mai." /> 
-	<phrase i="357" t="jun." /> 
-	<phrase i="358" t="jul." /> 
-	<phrase i="359" t="aug." /> 
-	<phrase i="360" t="sep." /> 
-	<phrase i="361" t="okt." /> 
-	<phrase i="362" t="nov." /> 
-	<phrase i="363" t="des." /> 
+	<phrase i="342" t="DSP belastning"/>
+	<phrase i="343" t="Vert belastning"/>
+	<phrase i="344" t="Modus"/>
+	<phrase i="345" t="Maskinutstyr Diagnostikk"/>
+	<phrase i="346" t="Audio Diagnostikk"/>
+	<phrase i="347" t="Tastatur Diagnostikk"/>
+	<phrase i="348" t="Skjerm Diagnostikk"/>
+	<phrase i="349" t="Håndsfri"/>
+	<phrase i="350" t="Håndsett"/>
+	<phrase i="351" t="Godkjent"/>
+	<phrase i="352" t="Svikt"/>
+	<phrase i="353" t="Prøven fullført"/>
+	<phrase i="354" t="Tast samme tasten to ganger for å gå ut"/>
+	<phrase i="355" t="Tast for å bekrefte funksjonen"/>
+	<phrase i="356" t="Innspille"/>
+	<phrase i="357" t="Stoppe"/>
+	<phrase i="358" t="Ugyldig tast"/>
+	<phrase i="359" t="krokbryter"/>
+	<phrase i="360" t="Stoppet"/>
+	<phrase i="361" t="Spiller"/>
+	<phrase i="362" t="Innspiller"/>
+	<phrase i="363" t="Duplikat IL (internet leverandør)"/>
+	<phrase i="364" t="Omstart"/>
+	<phrase i="365" t="oppdaget fra"/>
+	<phrase i="366" t="søn."/>
+	<phrase i="367" t="man.  "/>
+	<phrase i="368" t="tirs."/>
+	<phrase i="369" t="ons."/>
+	<phrase i="370" t="tors."/>
+	<phrase i="371" t="fre."/>
+	<phrase i="372" t="lør."/>
+	<phrase i="373" t="jan."/>
+	<phrase i="374" t="feb."/>
+	<phrase i="375" t="mar."/>
+	<phrase i="376" t="apr."/>
+	<phrase i="377" t="mai."/>
+	<phrase i="378" t="jun."/>
+	<phrase i="379" t="jul."/>
+	<phrase i="380" t="aug."/>
+	<phrase i="381" t="sep."/>
+	<phrase i="382" t="okt."/>
+	<phrase i="383" t="nov."/>
+	<phrase i="384" t="des."/>
+	<phrase i="385" t="Minne Bruk"/>
+	<phrase i="386" t="Aktiv Oppringning"/>
+	<phrase i="387" t="Stillhet"/>
+	<phrase i="388" t="Server utilgjengelig"/>
+	<phrase i="389" t="Klokke Innstillinger"/>
+	<phrase i="390" t="Dato over klokkeslett"/>
+	<phrase i="391" t="Klokkeslett over dato"/>
+	<phrase i="392" t="Dato før klokkeslett"/>
+	<phrase i="393" t="Klokkeslett før dato"/>
+	<phrase i="394" t="Japanske alfabet"/>
+	<phrase i="395" t="Ringetoner"/>
+	<phrase i="396" t="IF"/>
+	<phrase i="397" t="Inn/ut"/>
+	<phrase i="398" t="Tilgj."/>
+	<phrase i="399" t="Endre"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Vis navn"/>
+	<phrase i="404" t="Linje Informasjon"/>
+	<phrase i="405" t="Etikett"/>
+	<phrase i="406" t="Start Tastatur Logging"/>
+	<phrase i="407" t="Url oppringning er frakoblet"/>
+	<phrase i="408" t="Ta av røret"/>
+	<phrase i="409" t="Lytte Modus"/>
+	<phrase i="410" t="Hold"/>
+	<phrase i="411" t="Innhent Hold"/>
+	<phrase i="412" t="Innhent Gr."/>
+	<phrase i="413" t="Innhent Oppringning"/>
+	<phrase i="414" t="Hjem"/>
+	<phrase i="415" t="Oppdater"/>
+	<phrase i="416" t="Gjenta sist oppringning"/>
+	<phrase i="417" t="GSO"/>
+	<phrase i="418" t="Ringe Muligheter"/>
+	<phrase i="419" t="Blind Overførsel"/>
+	<phrase i="420" t="Høretelefoner"/>
+	<phrase i="421" t="Tilgjengelig Agent"/>
+	<phrase i="422" t="ACD Logg Inn Logg Ut"/>
+	<phrase i="423" t="Logg Inn"/>
+	<phrase i="424" t="Logg Ut"/>
+	<phrase i="425" t="Tilgjengelig"/>
+	<phrase i="426" t="Utilgjengelig"/>
+	<phrase i="427" t="Bruker Navn"/>
+	<phrase i="428" t="Passord"/>
+	<phrase i="429" t="Innhent"/>
 </phrases>

@@ -6,7 +6,7 @@
 	<phrase i="3" t="Edit"/>
 	<phrase i="4" t="Up"/>
 	<phrase i="5" t="Save"/>
-	<phrase i="6" t="more"/>
+	<phrase i="6" t="More"/>
 	<phrase i="7" t="New"/>
 	<phrase i="8" t="Ok"/>
 	<phrase i="9" t="Add"/>
@@ -23,14 +23,14 @@
 	<phrase i="20" t="Buddies"/>
 	<phrase i="21" t="Resume"/>
 	<phrase i="22" t="Play"/>
-	<phrase i="23" t="EndCall"/>
-	<phrase i="24" t="NewCall"/>
+	<phrase i="23" t="End Call"/>
+	<phrase i="24" t="New Call"/>
 	<phrase i="25" t="Redial"/>
 	<phrase i="26" t="Answer"/>
 	<phrase i="27" t="Name"/>
 	<phrase i="28" t="Number"/>
 	<phrase i="29" t="Hold"/>
-	<phrase i="30" t="Confrce"/>
+	<phrase i="30" t="Confrnc"/>
 	<phrase i="31" t="Trnsfer"/>
 	<phrase i="32" t="End"/>
 	<phrase i="33" t="Next"/>
@@ -57,19 +57,19 @@
 	<phrase i="54" t="Speed Dial"/>
 	<phrase i="55" t="Speed Dial info"/>
 	<phrase i="56" t="Call Lists"/>
-	<phrase i="57" t="Edit Dial"/>
-	<phrase i="58" t="Watching List"/>
+	<phrase i="57" t="Edit Contact"/>
+	<phrase i="58" t="Buddy List"/>
 	<phrase i="59" t="Watcher List"/>
 	<phrase i="60" t="Blocked List"/>
 	<phrase i="61" t="Missed Calls"/>
 	<phrase i="62" t="Received Calls"/>
 	<phrase i="63" t="Placed Calls"/>
-	<phrase i="64" t="Send message to"/>
+	<phrase i="64" t="CDP:"/>
 	<phrase i="65" t="App. information"/>
-	<phrase i="66" t="Supported codecs"/>
+	<phrase i="66" t="Supported Codecs"/>
 	<phrase i="67" t="Add Watching"/>
 	<phrase i="68" t="Network Summary"/>
-	<phrase i="69" t="Buddy Lists"/>
+	<phrase i="69" t="Presence"/>
 	<phrase i="70" t="Buddy Status"/>
 	<phrase i="71" t="Ring Type"/>
 	<phrase i="72" t="Status"/>
@@ -98,39 +98,39 @@
 	<phrase i="95" t="*** WARNING ***"/>
 	<phrase i="96" t="Router"/>
 	<phrase i="97" t="Down"/>
-	<phrase i="98" t="Elapsed time"/>
-	<phrase i="99" t="PktRx"/>
-	<phrase i="100" t="PktTx"/>
-	<phrase i="101" t="PktMiss"/>
+	<phrase i="98" t="Elapsed Time"/>
+	<phrase i="99" t="Rx Packets"/>
+	<phrase i="100" t="Tx Packets"/>
+	<phrase i="101" t="Lost Packets"/>
 	<phrase i="102" t="LAN port"/>
 	<phrase i="103" t="PC port"/>
-	<phrase i="104" t="Packets Sent"/>
-	<phrase i="105" t="Packets Recv"/>
-	<phrase i="106" t="Packets Lost"/>
+	<phrase i="104" t="InstMsg"/>
+	<phrase i="105" t="Specify Origin"/>
+	<phrase i="106" t="Enable"/>
 	<phrase i="107" t="Jitter (ms)"/>
-	<phrase i="108" t="MaxJitter (ms)"/>
+	<phrase i="108" t="Max. Jitter (ms)"/>
 	<phrase i="109" t="Latency (ms)"/>
-	<phrase i="110" t="App. rev."/>
-	<phrase i="111" t="Boot rev."/>
+	<phrase i="110" t="App. Version"/>
+	<phrase i="111" t="Boot Version"/>
 	<phrase i="112" t="Ring"/>
-	<phrase i="113" t="No record"/>
+	<phrase i="113" t="No records"/>
 	<phrase i="114" t="Missed call list"/>
 	<phrase i="115" t="Received call list"/>
 	<phrase i="116" t="Placed call list"/>
 	<phrase i="117" t="Cleared"/>
 	<phrase i="118" t="Number"/>
-	<phrase i="119" t="p.m."/>
-	<phrase i="120" t="a.m."/>
+	<phrase i="119" t="PM"/>
+	<phrase i="120" t="AM"/>
 	<phrase i="121" t="Time"/>
 	<phrase i="122" t="Name"/>
 	<phrase i="123" t="Duration"/>
-	<phrase i="124" t="says:"/>
-	<phrase i="125" t="Message to"/>
+	<phrase i="124" t=" says:"/>
+	<phrase i="125" t="Message to "/>
 	<phrase i="126" t="Got your message."/>
 	<phrase i="127" t="Call me."/>
 	<phrase i="128" t="Call later."/>
 	<phrase i="129" t="Can't chat now."/>
-	<phrase i="130" t="Let&apos;s have lunch."/>
+	<phrase i="130" t="Go to lunch?"/>
 	<phrase i="131" t="Imported"/>
 	<phrase i="132" t="Import failed"/>
 	<phrase i="133" t="Language"/>
@@ -144,22 +144,22 @@
 	<phrase i="141" t="For"/>
 	<phrase i="142" t="Hold"/>
 	<phrase i="143" t="Held"/>
-	<phrase i="144" t="New message"/>
-	<phrase i="145" t="New messages"/>
+	<phrase i="144" t=" New message"/>
+	<phrase i="145" t=" New messages"/>
 	<phrase i="146" t="Call"/>
-	<phrase i="147" t="Network link failed"/>
+	<phrase i="147" t="Network link is down"/>
 	<phrase i="148" t="Reconfiguring network"/>
-	<phrase i="149" t="New missed call"/>
-	<phrase i="150" t="New missed calls"/>
-	<phrase i="151" t="Reboot Initiated"/>
+	<phrase i="149" t=" new missed call"/>
+	<phrase i="150" t=" new missed calls"/>
+	<phrase i="151" t="Reboot initiated"/>
 	<phrase i="152" t="Call on hold"/>
 	<phrase i="153" t="Disconnected"/>
 	<phrase i="154" t="Online"/>
 	<phrase i="155" t="Busy"/>
 	<phrase i="156" t="Be right back"/>
 	<phrase i="157" t="Away"/>
-	<phrase i="158" t="On the Phone"/>
-	<phrase i="159" t="On Lunch"/>
+	<phrase i="158" t="On the phone"/>
+	<phrase i="159" t="Out to lunch"/>
 	<phrase i="160" t="In a meeting"/>
 	<phrase i="161" t="Offline"/>
 	<phrase i="162" t="Do not disturb"/>
@@ -182,7 +182,7 @@
 	<phrase i="179" t="DNS Server:"/>
 	<phrase i="180" t="DNS Alt. Server:"/>
 	<phrase i="181" t="DNS Domain:"/>
-	<phrase i="182" t="VLAN Id:"/>
+	<phrase i="182" t="VLAN ID:"/>
 	<phrase i="183" t="Save Config"/>
 	<phrase i="184" t="Exit  w/o Save"/>
 	<phrase i="185" t="Resume Setup"/>
@@ -191,7 +191,7 @@
 	<phrase i="188" t="IP"/>
 	<phrase i="189" t="DNS"/>
 	<phrase i="190" t="Boot Server"/>
-	<phrase i="191" t="Alt DNS"/>
+	<phrase i="191" t="Alt. DNS"/>
 	<phrase i="192" t="Option 66"/>
 	<phrase i="193" t="Custom"/>
 	<phrase i="194" t="Static"/>
@@ -204,15 +204,15 @@
 	<phrase i="201" t="Mask"/>
 	<phrase i="202" t="Router"/>
 	<phrase i="203" t="Domain"/>
-	<phrase i="204" t="VLan Id"/>
-	<phrase i="205" t="CM"/>
-	<phrase i="206" t="App Ref"/>
+	<phrase i="204" t="VLAN ID"/>
+	<phrase i="205" t="Server"/>
+	<phrase i="206" t="App. Version"/>
 	<phrase i="207" t="File"/>
 	<phrase i="208" t="Config"/>
 	<phrase i="209" t="Bootrom"/>
-	<phrase i="210" t="Hw P/N"/>
-	<phrase i="211" t="TxCodec"/>
-	<phrase i="212" t="RxCodec"/>
+	<phrase i="210" t="P/N"/>
+	<phrase i="211" t="Tx Codec"/>
+	<phrase i="212" t="Rx Codec"/>
 	<phrase i="213" t="Language changed."/>
 	<phrase i="214" t="Language change failed."/>
 	<phrase i="215" t="Please wait..."/>
@@ -246,12 +246,12 @@
 	<phrase i="243" t="Old"/>
 	<phrase i="244" t="Old"/>
 	<phrase i="245" t="Connect"/>
-	<phrase i="246" t="Directory Add"/>
+	<phrase i="246" t="Add To Directory"/>
 	<phrase i="247" t="Edit Contact"/>
 	<phrase i="248" t="Speed Dial Index"/>
-	<phrase i="249" t="Call diversion"/>
+	<phrase i="249" t="Call Forwarding"/>
 	<phrase i="250" t="Reject"/>
-	<phrase i="251" t="Divert"/>
+	<phrase i="251" t="Forward"/>
 	<phrase i="252" t="This call"/>
 	<phrase i="253" t="Reset User Settings"/>
 	<phrase i="254" t="Divert Contact"/>
@@ -261,19 +261,19 @@
 	<phrase i="258" t="Error"/>
 	<phrase i="259" t="Contact already exists."/>
 	<phrase i="260" t="Disable"/>
-	<phrase i="261" t="Buddy Watching"/>
-	<phrase i="262" t="Buddy Block"/>
+	<phrase i="261" t="Watch Buddy"/>
+	<phrase i="262" t="Block Buddy"/>
 	<phrase i="263" t="Please try again."/>
 	<phrase i="264" t="Clock"/>
-	<phrase i="265" t="Date"/>
+	<phrase i="265" t="Clock Date"/>
 	<phrase i="266" t="Format"/>
-	<phrase i="267" t="Monday"/>
-	<phrase i="268" t="Tuesday"/>
-	<phrase i="269" t="Wednesday"/>
-	<phrase i="270" t="Thursday"/>
-	<phrase i="271" t="Friday"/>
-	<phrase i="272" t="Saturday"/>
-	<phrase i="273" t="Sunday"/>
+	<phrase i="267" t="Sunday"/>
+	<phrase i="268" t="Monday"/>
+	<phrase i="269" t="Tuesday"/>
+	<phrase i="270" t="Wednesday"/>
+	<phrase i="271" t="Thursday"/>
+	<phrase i="272" t="Friday"/>
+	<phrase i="273" t="Saturday"/>
 	<phrase i="274" t="January"/>
 	<phrase i="275" t="February"/>
 	<phrase i="276" t="March"/>
@@ -289,11 +289,11 @@
 	<phrase i="286" t="Clock Time"/>
 	<phrase i="287" t="Set All"/>
 	<phrase i="288" t="Clear All"/>
-	<phrase i="289" t="Headset Setting"/>
-	<phrase i="290" t="Auto. Headset mode"/>
+	<phrase i="289" t="Headset Memory"/>
+	<phrase i="290" t="Headset Memory Mode"/>
 	<phrase i="291" t="Error while importing."/>
 	<phrase i="292" t="Active call, action aborted."/>
-	<phrase i="293" t="Please enter contact."/>
+	<phrase i="293" t="Please enter a contact."/>
 	<phrase i="294" t="Transfer to:"/>
 	<phrase i="295" t="Conference to:"/>
 	<phrase i="296" t="Enter"/>
@@ -307,7 +307,7 @@
 	<phrase i="304" t="Sorry, please try again."/>
 	<phrase i="305" t="Old Password"/>
 	<phrase i="306" t="New Password"/>
-	<phrase i="307" t="Confirm Password"/>
+	<phrase i="307" t="Confirm New"/>
 	<phrase i="308" t="Sorry, password too short."/>
 	<phrase i="309" t="PrevPg"/>
 	<phrase i="310" t="Ascii"/>
@@ -325,8 +325,8 @@
 	<phrase i="322" t="LAN Mode "/>
 	<phrase i="323" t="PC Mode "/>
 	<phrase i="324" t="SNTP"/>
-	<phrase i="325" t="GMT"/>
-	<phrase i="326" t="Daylight savings"/>
+	<phrase i="325" t="GMT Offset"/>
+	<phrase i="326" t="Daylight Savings"/>
 	<phrase i="327" t="On"/>
 	<phrase i="328" t="Off"/>
 	<phrase i="329" t="CPU Load"/>
@@ -339,29 +339,96 @@
 	<phrase i="336" t="End of directory."/>
 	<phrase i="337" t="This contact was deleted."/>
 	<phrase i="338" t="Line used remotely"/>
-	<phrase i="339" t="Net Load"/>
+	<phrase i="339" t="Network Load"/>
 	<phrase i="340" t="Bytes Per Second"/>
 	<phrase i="341" t="Packets Per Second"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="Sun" /> 
-	<phrase i="346" t="Mon" /> 
-	<phrase i="347" t="Tue" /> 
-	<phrase i="348" t="Wed" /> 
-	<phrase i="349" t="Thu" /> 
-	<phrase i="350" t="Fri" /> 
-	<phrase i="351" t="Sat" /> 
-	<phrase i="352" t="Jan" /> 
-	<phrase i="353" t="Feb" /> 
-	<phrase i="354" t="Mar" /> 
-	<phrase i="355" t="Apr" /> 
-	<phrase i="356" t="May" /> 
-	<phrase i="357" t="Jun" /> 
-	<phrase i="358" t="Jul" /> 
-	<phrase i="359" t="Aug" /> 
-	<phrase i="360" t="Sep" /> 
-	<phrase i="361" t="Oct" /> 
-	<phrase i="362" t="Nov" /> 
-	<phrase i="363" t="Dec" /> 
+	<phrase i="342" t="DSP Load"/>
+	<phrase i="343" t="Host Load"/>
+	<phrase i="344" t="Mode"/>
+	<phrase i="345" t="Hardware Diagnostics"/>
+	<phrase i="346" t="Audio Diagnostics"/>
+	<phrase i="347" t="Keypad Diagnostics"/>
+	<phrase i="348" t="Display Diagnostics"/>
+	<phrase i="349" t="Handsfree"/>
+	<phrase i="350" t="Handset"/>
+	<phrase i="351" t="Pass"/>
+	<phrase i="352" t="Fail"/>
+	<phrase i="353" t="Test complete"/>
+	<phrase i="354" t="Press same key twice to exit"/>
+	<phrase i="355" t="Press key to verify function"/>
+	<phrase i="356" t="Record"/>
+	<phrase i="357" t="Stop"/>
+	<phrase i="358" t="Invalid Key"/>
+	<phrase i="359" t="Hookswitch"/>
+	<phrase i="360" t="Stopped"/>
+	<phrase i="361" t="Playing"/>
+	<phrase i="362" t="Recording"/>
+	<phrase i="363" t="Duplicate IP"/>
+	<phrase i="364" t="Reboot"/>
+	<phrase i="365" t="detected from"/>
+	<phrase i="366" t="Sun"/>
+	<phrase i="367" t="Mon"/>
+	<phrase i="368" t="Tue"/>
+	<phrase i="369" t="Wed"/>
+	<phrase i="370" t="Thu"/>
+	<phrase i="371" t="Fri"/>
+	<phrase i="372" t="Sat"/>
+	<phrase i="373" t="Jan"/>
+	<phrase i="374" t="Feb"/>
+	<phrase i="375" t="Mar"/>
+	<phrase i="376" t="Apr"/>
+	<phrase i="377" t="May"/>
+	<phrase i="378" t="Jun"/>
+	<phrase i="379" t="Jul"/>
+	<phrase i="380" t="Aug"/>
+	<phrase i="381" t="Sep"/>
+	<phrase i="382" t="Oct"/>
+	<phrase i="383" t="Nov"/>
+	<phrase i="384" t="Dec"/>
+	<phrase i="385" t="Memory Usage"/>
+	<phrase i="386" t="Call Active"/>
+	<phrase i="387" t="Silence"/>
+	<phrase i="388" t="Server unavailable."/>
+	<phrase i="389" t="Clock Order"/>
+	<phrase i="390" t="Date above time"/>
+	<phrase i="391" t="Time above date"/>
+	<phrase i="392" t="Date before time"/>
+	<phrase i="393" t="Time before date"/>
+	<phrase i="394" t="Katakana"/>
+	<phrase i="395" t="Call Progress Tones"/>
+	<phrase i="396" t="Dnd"/>
+	<phrase i="397" t="Chk in/out"/>
+	<phrase i="398" t="Agt avail"/>
+	<phrase i="399" t="Change"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Display Name"/>
+	<phrase i="404" t="Line Information"/>
+	<phrase i="405" t="Label"/>
+	<phrase i="406" t="Start Keypad Logging"/>
+	<phrase i="407" t="Url call is disabled"/>
+	<phrase i="408" t="Please lift handset"/>
+	<phrase i="409" t="Listen Mode"/>
+	<phrase i="410" t="Park"/>
+    <phrase i="411" t="Rtrieve"/>
+	<phrase i="412" t="Group"/>
+	<phrase i="413" t="Directd"/>
+	<phrase i="414" t="Home"/>
+	<phrase i="415" t="Refresh"/>
+	<phrase i="416" t="Last call return"/>
+	<phrase i="417" t="LCR"/>
+	<phrase i="418" t="Call Features"/>
+	<phrase i="419" t="Blind"/>
+	<phrase i="420" t="Headset"/>
+	<phrase i="421" t="Agent Availability"/>
+	<phrase i="422" t="ACD Login Logout"/>
+	<phrase i="423" t="Login"/>
+	<phrase i="424" t="Logout"/>
+	<phrase i="425" t="Available"/>
+	<phrase i="426" t="Unavailable"/>
+	<phrase i="427" t="User ID:"/>
+	<phrase i="428" t="Password:"/>
+	<phrase i="429" t="Pickup"/>
+	<phrase i="430" t="Blind transfer to:"/>
 </phrases>

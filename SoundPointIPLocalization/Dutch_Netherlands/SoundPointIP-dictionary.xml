@@ -53,7 +53,7 @@
 	<phrase i="50" t="Directory"/>
 	<phrase i="51" t="Directory's"/>
 	<phrase i="52" t="Service"/>
-	<phrase i="53" t="Service’s"/>
+	<phrase i="53" t="Service's"/>
 	<phrase i="54" t="Snelkies"/>
 	<phrase i="55" t="Snelkies-info"/>
 	<phrase i="56" t="Telefoonlijsten"/>
@@ -119,8 +119,8 @@
 	<phrase i="116" t="Gemaakte gesprekken"/>
 	<phrase i="117" t="Gewist"/>
 	<phrase i="118" t="Verbinding"/>
-	<phrase i="119" t="’s middags"/>
-	<phrase i="120" t="’s morgens"/>
+	<phrase i="119" t="'s middags"/>
+	<phrase i="120" t="'s morgens"/>
 	<phrase i="121" t="Tijd"/>
 	<phrase i="122" t="Naam"/>
 	<phrase i="123" t="Tijdsduur"/>
@@ -144,13 +144,13 @@
 	<phrase i="141" t="Voor"/>
 	<phrase i="142" t="Hold"/>
 	<phrase i="143" t="Wachtstatus"/>
-	<phrase i="144" t="Nieuw bericht"/>
-	<phrase i="145" t="Nieuwe berichten"/>
+	<phrase i="144" t=" Nieuw bericht"/>
+	<phrase i="145" t=" Nieuwe berichten"/>
 	<phrase i="146" t="Gesprek"/>
 	<phrase i="147" t="Netwerkverbinding is uitgeschakeld"/>
 	<phrase i="148" t="Begonnen met rebooten"/>
-	<phrase i="149" t="Nieuw gemist gesprek"/>
-	<phrase i="150" t="Nieuwe gemiste gesprekken"/>
+	<phrase i="149" t=" nieuw gemist gesprek"/>
+	<phrase i="150" t=" nieuwe gemiste gesprekken"/>
 	<phrase i="151" t="Begonnen met rebooten"/>
 	<phrase i="152" t="Gesprek op wachtstatus"/>
 	<phrase i="153" t="Verbroken"/>
@@ -342,26 +342,92 @@
 	<phrase i="339" t="Netwerkbelasting"/>
 	<phrase i="340" t="Bytes per seconde"/>
 	<phrase i="341" t="Pakketten per seconde"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="zon." /> 
-	<phrase i="346" t="maand." /> 
-	<phrase i="347" t="dinsd." /> 
-	<phrase i="348" t="woensd." /> 
-	<phrase i="349" t="donderd." /> 
-	<phrase i="350" t="vrijd." /> 
-	<phrase i="351" t="zat." /> 
-	<phrase i="352" t="jan" /> 
-	<phrase i="353" t="feb" /> 
-	<phrase i="354" t="mrt" /> 
-	<phrase i="355" t="apr" /> 
-	<phrase i="356" t="mei" /> 
-	<phrase i="357" t="jun" /> 
-	<phrase i="358" t="jul" /> 
-	<phrase i="359" t="aug" /> 
-	<phrase i="360" t="sep" /> 
-	<phrase i="361" t="okt" /> 
-	<phrase i="362" t="nov" /> 
-	<phrase i="363" t="dec" /> 
+	<phrase i="342" t="DSP-belasting"/>
+	<phrase i="343" t="Host-belasting"/>
+	<phrase i="344" t="Modus"/>
+	<phrase i="345" t="Hardwarediagnostiek"/>
+	<phrase i="346" t="Audiodiagnostiek"/>
+	<phrase i="347" t="Keypad-diagnostiek"/>
+	<phrase i="348" t="Beeldschermdiagnostiek"/>
+	<phrase i="349" t="Handenvrij"/>
+	<phrase i="350" t="Handset"/>
+	<phrase i="351" t="Geslaagd"/>
+	<phrase i="352" t="Mislukt"/>
+	<phrase i="353" t="Test voltooid"/>
+	<phrase i="354" t="Dezelfde toets twee keer indrukken om af te sluiten"/>
+	<phrase i="355" t="Toets indrukken om de functie te verifiëren"/>
+	<phrase i="356" t="Opnemen"/>
+	<phrase i="357" t="Stoppen"/>
+	<phrase i="358" t="Ongeldige toets"/>
+	<phrase i="359" t="Haakschakelaar"/>
+	<phrase i="360" t="Gestopt"/>
+	<phrase i="361" t="Bezig met afspelen"/>
+	<phrase i="362" t="Bezig met opnemen"/>
+	<phrase i="363" t="Dubbel IP"/>
+	<phrase i="364" t="Herstarten"/>
+	<phrase i="365" t="gedetecteerd van"/>
+	<phrase i="366" t="zon."/>
+	<phrase i="367" t="maand."/>
+	<phrase i="368" t="dinsd."/>
+	<phrase i="369" t="woensd."/>
+	<phrase i="370" t="donderd."/>
+	<phrase i="371" t="vrijd."/>
+	<phrase i="372" t="zat."/>
+	<phrase i="373" t="jan"/>
+	<phrase i="374" t="feb"/>
+	<phrase i="375" t="mrt"/>
+	<phrase i="376" t="apr"/>
+	<phrase i="377" t="mei"/>
+	<phrase i="378" t="jun"/>
+	<phrase i="379" t="jul"/>
+	<phrase i="380" t="aug"/>
+	<phrase i="381" t="sep"/>
+	<phrase i="382" t="okt"/>
+	<phrase i="383" t="nov"/>
+	<phrase i="384" t="dec"/>
+	<phrase i="385" t="Geheugenbeslag"/>
+	<phrase i="386" t="Actief gesprek"/>
+	<phrase i="387" t="Stilte"/>
+	<phrase i="388" t="Server niet beschikbaar."/>
+	<phrase i="389" t="Klokvolgorde"/>
+	<phrase i="390" t="Datum boven tijd"/>
+	<phrase i="391" t="Tijd boven datum"/>
+	<phrase i="392" t="Datum vóór tijd"/>
+	<phrase i="393" t="Tijd vóór datum"/>
+	<phrase i="394" t="Katakana"/>
+	<phrase i="395" t="Gesprek-vorderingstonen"/>
+	<phrase i="396" t="Ns"/>
+	<phrase i="397" t="In/uitchecken"/>
+	<phrase i="398" t="Agt beschikb"/>
+	<phrase i="399" t="Wijziging"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Naam tonen"/>
+	<phrase i="404" t="Lijninformatie"/>
+	<phrase i="405" t="Label"/>
+	<phrase i="406" t="Bijhouden keypad starten"/>
+	<phrase i="407" t="Url-gesprek is uitgeschakeld"/>
+	<phrase i="408" t="Hoorn opnemen"/>
+	<phrase i="409" t="Luistermodus"/>
+	<phrase i="410" t="Parkeren"/>
+	<phrase i="411" t="Pk.pickup"/>
+	<phrase i="412" t="Gr.pickup"/>
+	<phrase i="413" t="Gesprek oppakken"/>
+	<phrase i="414" t="Home"/>
+	<phrase i="415" t="Vernieuwen"/>
+	<phrase i="416" t="Laatste gesprek beantwoorden"/>
+	<phrase i="417" t="LCR"/>
+	<phrase i="418" t="Telefoonfeatures"/>
+	<phrase i="419" t="BTrnsfr"/>
+	<phrase i="420" t="Headset"/>
+	<phrase i="421" t="Agentbeschikbaarheid"/>
+	<phrase i="422" t="ACD inloggen uitloggen"/>
+	<phrase i="423" t="Inloggen"/>
+	<phrase i="424" t="Uitloggen"/>
+	<phrase i="425" t="Beschikbaar"/>
+	<phrase i="426" t="Niet beschikbaar"/>
+	<phrase i="427" t="Gebruikers-ID:"/>
+	<phrase i="428" t="Wachtwoord:"/>
+	<phrase i="429" t="PickUp"/>
 </phrases>

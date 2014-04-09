@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <phrases>
 	<phrase i="0" t="返回"/>
 	<phrase i="1" t="拨号"/>
@@ -342,26 +342,82 @@
 	<phrase i="339" t="网络负载"/>
 	<phrase i="340" t="字节每秒"/>
 	<phrase i="341" t="数据包每秒"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="星期日"/>
-	<phrase i="346" t="星期一"/>
-	<phrase i="347" t="星期二"/>
-	<phrase i="348" t="星期三"/>
-	<phrase i="349" t="星期四"/>
-	<phrase i="350" t="星期五"/>
-	<phrase i="351" t="星期六"/>
-	<phrase i="352" t="一月"/>
-	<phrase i="353" t="二月"/>
-	<phrase i="354" t="三月"/>
-	<phrase i="355" t="四月"/>
-	<phrase i="356" t="五月"/>
-	<phrase i="357" t="六月"/>
-	<phrase i="358" t="七月"/>
-	<phrase i="359" t="八月"/>
-	<phrase i="360" t="九月"/>
-	<phrase i="361" t="十月"/>
-	<phrase i="362" t="十一月"/>
-	<phrase i="363" t="十二月"/>
+	<phrase i="342" t="DSP占用率"/>
+	<phrase i="343" t="CPU占用率"/>
+	<phrase i="344" t="方式"/>
+	<phrase i="345" t="硬件诊断"/>
+	<phrase i="346" t="音频诊断"/>
+	<phrase i="347" t="键盘诊断"/>
+	<phrase i="348" t="显示诊断"/>
+	<phrase i="349" t="免提"/>
+	<phrase i="350" t="听筒"/>
+	<phrase i="351" t="成功"/>
+	<phrase i="352" t="胜败"/>
+	<phrase i="353" t="测试完成"/>
+	<phrase i="354" t="按同一键两次退出"/>
+	<phrase i="355" t="按键确定选择"/>
+	<phrase i="356" t="录音"/>
+	<phrase i="357" t="停止"/>
+	<phrase i="358" t="无效键"/>
+	<phrase i="359" t="叉簧"/>
+	<phrase i="360" t="已停止"/>
+	<phrase i="361" t="播放中"/>
+	<phrase i="362" t="录音中"/>
+	<phrase i="363" t="IP地址重复"/>
+	<phrase i="364" t="重启动"/>
+	<phrase i="365" t="发现于"/>
+	<phrase i="366" t="星期日"/>
+	<phrase i="367" t="星期一"/>
+	<phrase i="368" t="星期二"/>
+	<phrase i="369" t="星期三"/>
+	<phrase i="370" t="星期四"/>
+	<phrase i="371" t="星期五"/>
+	<phrase i="372" t="星期六"/>
+	<phrase i="373" t="一月"/>
+	<phrase i="374" t="二月"/>
+	<phrase i="375" t="三月"/>
+	<phrase i="376" t="四月"/>
+	<phrase i="377" t="五月"/>
+	<phrase i="378" t="六月"/>
+	<phrase i="379" t="七月"/>
+	<phrase i="380" t="八月"/>
+	<phrase i="381" t="九月"/>
+	<phrase i="382" t="十月"/>
+	<phrase i="383" t="十一月"/>
+	<phrase i="384" t="十二月"/>
+	<phrase i="385" t="内存使用"/>
+	<phrase i="386" t="通话中"/>
+	<phrase i="387" t="静音"/>
+	<phrase i="388" t="没有服务器"/>
+	<phrase i="389" t="时钟次序"/> 
+	<phrase i="390" t="日期在上"/>
+	<phrase i="391" t="时间在上"/>
+	<phrase i="392" t="日期在前"/>
+	<phrase i="393" t="时间在前"/>
+	<phrase i="394" t="Katakana"/>
+	<phrase i="395" t="话机音标准"/>
+	<phrase i="396" t="请勿打扰"/>
+	<phrase i="397" t="登录"/>
+	<phrase i="398" t="代理有效"/>
+	<phrase i="399" t="改变"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="显示"/>
+	<phrase i="404" t="线资料"/>
+	<phrase i="405" t="标示"/>
+	<phrase i="406" t="开始纪录键"/>
+	<phrase i="407" t="地址通话被禁止"/>
+	<phrase i="408" t="请使用手持听筒"/>
+	<phrase i="409" t="监听模式"/>
+	<phrase i="410" t="挂靠"/>
+	<phrase i="411" t="挂靠接通"/>
+	<phrase i="412" t="集体接通"/>
+	<phrase i="413" t="来电接通"/>
+	<phrase i="414" t="起始"/>
+	<phrase i="415" t="刷新"/>
+	<phrase i="416" t="最后通话重接"/>
+	<phrase i="417" t="LCR"/>
+	<phrase i="418" t="话机功能"/>
+	<phrase i="419" t="盲转接"/>
 </phrases>

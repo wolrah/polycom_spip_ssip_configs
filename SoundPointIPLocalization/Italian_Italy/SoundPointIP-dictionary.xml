@@ -119,8 +119,8 @@
 	<phrase i="116" t="Collocata la lista delle chiamate"/>
 	<phrase i="117" t="Cancellato"/>
 	<phrase i="118" t="Contatto"/>
-	<phrase i="119" t="p.m."/>
-	<phrase i="120" t="a.m."/>
+	<phrase i="119" t="PM"/>
+	<phrase i="120" t="AM"/>
 	<phrase i="121" t="Ora"/>
 	<phrase i="122" t="Nome"/>
 	<phrase i="123" t="Durata"/>
@@ -144,13 +144,13 @@
 	<phrase i="141" t="Per"/>
 	<phrase i="142" t="Attesa"/>
 	<phrase i="143" t="In attesa"/>
-	<phrase i="144" t="Nuovo messaggio"/>
-	<phrase i="145" t="Nuovi messaggi"/>
+	<phrase i="144" t=" Nuovo messaggio"/>
+	<phrase i="145" t=" Nuovi messaggi"/>
 	<phrase i="146" t="Chiamata"/>
 	<phrase i="147" t="Link del network fuori servizio"/>
 	<phrase i="148" t="Riconfigurazione network"/>
-	<phrase i="149" t="Chiamata nuova persa "/>
-	<phrase i="150" t="Chiamate nuove perse "/>
+	<phrase i="149" t=" chiamata nuova persa "/>
+	<phrase i="150" t=" chiamate nuove perse "/>
 	<phrase i="151" t="Iniziato il riavvio"/>
 	<phrase i="152" t="Chiamata in attesa"/>
 	<phrase i="153" t="Disconnesso"/>
@@ -342,26 +342,92 @@
 	<phrase i="339" t="Carico del Network "/>
 	<phrase i="340" t="Byte al secondo"/>
 	<phrase i="341" t="Packet al secondo"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="Domenica" /> 
-	<phrase i="346" t="Lunedì" /> 
-	<phrase i="347" t="Martedì" /> 
-	<phrase i="348" t="Mercoledì" /> 
-	<phrase i="349" t="Giovedì" /> 
-	<phrase i="350" t="Venerdì" /> 
-	<phrase i="351" t="Sabato" /> 
-	<phrase i="352" t="Gennaio" /> 
-	<phrase i="353" t="Febbraio" /> 
-	<phrase i="354" t="Marzo" /> 
-	<phrase i="355" t="Aprile" /> 
-	<phrase i="356" t="Maggio" /> 
-	<phrase i="357" t="Giugno" /> 
-	<phrase i="358" t="Luglio" /> 
-	<phrase i="359" t="Agosto" /> 
-	<phrase i="360" t="Settembre" /> 
-	<phrase i="361" t="Ottobre" /> 
-	<phrase i="362" t="Novembre" /> 
-	<phrase i="363" t="Dicembre" /> 
+	<phrase i="342" t="Utilizzazione DSP"/>
+	<phrase i="343" t="Utilizzazione CPU"/>
+	<phrase i="344" t="Modo"/>
+	<phrase i="345" t="Diagnostica hardware"/>
+	<phrase i="346" t="Diagnostica audio"/>
+	<phrase i="347" t="Diagnostica tastiera"/>
+	<phrase i="348" t="Diagnostica del visualizzatore"/>
+	<phrase i="349" t="Viva voce"/>
+	<phrase i="350" t="Microtelefono"/>
+	<phrase i="351" t="Approvato"/>
+	<phrase i="352" t="Non approvato"/>
+	<phrase i="353" t="Test completo"/>
+	<phrase i="354" t="Per uscire premere due volte lo stesso tasto"/>
+	<phrase i="355" t="Per verificare la funzione premere il tasto"/>
+	<phrase i="356" t="Registra"/>
+	<phrase i="357" t="Stop"/>
+	<phrase i="358" t="Tasto non valido"/>
+	<phrase i="359" t="Gancio commutatore"/>
+	<phrase i="360" t="Stop"/>
+	<phrase i="361" t="In funzione"/>
+	<phrase i="362" t="Registrazione"/>
+	<phrase i="363" t="Doppio indirizzo IP"/>
+	<phrase i="364" t="Ricaricare"/>
+	<phrase i="365" t="Riportato da"/>
+	<phrase i="366" t="Domenica"/>
+	<phrase i="367" t="Lunedì"/>
+	<phrase i="368" t="Martedì"/>
+	<phrase i="369" t="Mercoledì"/>
+	<phrase i="370" t="Giovedì"/>
+	<phrase i="371" t="Venerdì"/>
+	<phrase i="372" t="Sabato"/>
+	<phrase i="373" t="Gennaio"/>
+	<phrase i="374" t="Febbraio"/>
+	<phrase i="375" t="Marzo"/>
+	<phrase i="376" t="Aprile"/>
+	<phrase i="377" t="Maggio"/>
+	<phrase i="378" t="Giugno"/>
+	<phrase i="379" t="Luglio"/>
+	<phrase i="380" t="Agosto"/>
+	<phrase i="381" t="Settembre"/>
+	<phrase i="382" t="Ottobre"/>
+	<phrase i="383" t="Novembre"/>
+	<phrase i="384" t="Dicembre"/>
+	<phrase i="385" t="Uso memoria"/>
+	<phrase i="386" t="Chiamata attiva"/>
+	<phrase i="387" t="Non disturbare"/>
+	<phrase i="388" t="Server non disponibile"/>
+	<phrase i="389" t="Sistemazione orologio"/>
+	<phrase i="390" t="Data sopra l'ora"/>
+	<phrase i="391" t="Ora sopra la data"/>
+	<phrase i="392" t="Data prima dell'ora"/>
+	<phrase i="393" t="Ora prima della data"/>
+	<phrase i="394" t="Alfabeto Katakana"/>
+	<phrase i="395" t="Toni progressivi della chiamata"/>
+	<phrase i="396" t="Non dist."/>
+	<phrase i="397" t="In/Out"/>	
+	<phrase i="398" t="Disp."/>
+	<phrase i="399" t="Cambio"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="Visualizza nome"/>
+	<phrase i="404" t="Informazioni sulla linea"/>
+	<phrase i="405" t="Etichetta"/>
+	<phrase i="406" t="Inizia registrazione tastiera"/>
+	<phrase i="407" t="Chiamata a Url non attivata"/>
+	<phrase i="408" t="Sollevare il ricevitore"/>
+	<phrase i="409" t="Modalità ascolto"/>
+	<phrase i="410" t="Attesa"/>
+	<phrase i="411" t="Risposta chiamata in attesa"/>
+	<phrase i="412" t="Risposta di gruppo"/>
+	<phrase i="413" t="Risposta chiamata"/>
+	<phrase i="414" t="Home"/>
+	<phrase i="415" t="Ripristino"/>
+	<phrase i="416" t="Ripetizione ultima chiamata"/>
+	<phrase i="417" t="RUC"/>
+	<phrase i="418" t="Caratteristiche chiamata"/>
+	<phrase i="419" t="Trasferimento cieco"/>
+	<phrase i="420" t="Cuffia microfono"/>
+	<phrase i="421" t="Disponibilità agente"/>
+	<phrase i="422" t="DAC coll. scoll."/>
+	<phrase i="423" t="Collegamento"/>
+	<phrase i="424" t="Scollegamento"/>
+	<phrase i="425" t="Disponibile"/>
+	<phrase i="426" t="Non disponibile"/>
+	<phrase i="427" t="ID utente:"/>
+	<phrase i="428" t="Password:"/>
+	<phrase i="429" t="Risposta chiamata"/>
 </phrases>

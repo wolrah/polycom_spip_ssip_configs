@@ -342,26 +342,92 @@
 	<phrase i="339" t="네트워크 부하"/>
 	<phrase i="340" t="초당 바이트 전송률"/>
 	<phrase i="341" t="초당 패킷 전송률"/>
-	<phrase i="342" t="Clock Order"/>
-	<phrase i="343" t="Date above time"/>
-	<phrase i="344" t="Time above date"/>
-	<phrase i="345" t="일"/>
-	<phrase i="346" t="월"/>
-	<phrase i="347" t="화"/>
-	<phrase i="348" t="수"/>
-	<phrase i="349" t="목"/>
-	<phrase i="350" t="금"/>
-	<phrase i="351" t="토"/>
-	<phrase i="352" t="1월"/>
-	<phrase i="353" t="2월"/>
-	<phrase i="354" t="3월"/>
-	<phrase i="355" t="4월"/>
-	<phrase i="356" t="5월"/>
-	<phrase i="357" t="6월"/>
-	<phrase i="358" t="7월"/>
-	<phrase i="359" t="8월"/>
-	<phrase i="360" t="9월"/>
-	<phrase i="361" t="10월"/>
-	<phrase i="362" t="11월"/>
-	<phrase i="363" t="12월"/>
+	<phrase i="342" t="DSP 로드"/>
+	<phrase i="343" t="호스트 로드"/>
+	<phrase i="344" t="모드"/>
+	<phrase i="345" t="하드웨어 검사"/>
+	<phrase i="346" t="오디오 검사"/>
+	<phrase i="347" t="키패드 검사"/>
+	<phrase i="348" t="화면 검사"/>
+	<phrase i="349" t="핸드프리"/>
+	<phrase i="350" t="수화기"/>
+	<phrase i="351" t="통과"/>
+	<phrase i="352" t="실패"/>
+	<phrase i="353" t="검사 완료"/>
+	<phrase i="354" t="같은 키를 두 번 눌러 종료하십시오"/>
+	<phrase i="355" t="기능을 검사하기 위해서 키를 눌러 주십시오"/>
+	<phrase i="356" t="녹음"/>
+	<phrase i="357" t="중지"/>
+	<phrase i="358" t="잘못된 키"/>
+	<phrase i="359" t="훅스위치"/>
+	<phrase i="360" t="중지됨"/>
+	<phrase i="361" t="재생 중"/>
+	<phrase i="362" t="녹음 중"/>
+	<phrase i="363" t="IP 복재"/>
+	<phrase i="364" t="재시동"/>
+	<phrase i="365" t="감지되었습니다"/>
+	<phrase i="366" t="일"/>
+	<phrase i="367" t="월"/>
+	<phrase i="368" t="화"/>
+	<phrase i="369" t="수"/>
+	<phrase i="370" t="목"/>
+	<phrase i="371" t="금"/>
+	<phrase i="372" t="토"/>
+	<phrase i="373" t="1월"/>
+	<phrase i="374" t="2월"/>
+	<phrase i="375" t="3월"/>
+	<phrase i="376" t="4월"/>
+	<phrase i="377" t="5월"/>
+	<phrase i="378" t="6월"/>
+	<phrase i="379" t="7월"/>
+	<phrase i="380" t="8월"/>
+	<phrase i="381" t="9월"/>
+	<phrase i="382" t="10월"/>
+	<phrase i="383" t="11월"/>
+	<phrase i="384" t="12월"/>
+	<phrase i="385" t="메모리 사용량"/>
+	<phrase i="386" t="통화 중"/>
+	<phrase i="387" t="소리끔"/>
+	<phrase i="388" t="서버가 작동하지 않습니다"/>
+	<phrase i="389" t="시계 순서"/>
+	<phrase i="390" t="시간 위의 날짜"/>
+	<phrase i="391" t="날짜 위의 시간"/>
+	<phrase i="392" t="시간 이전의 날짜"/>
+	<phrase i="393" t="날짜 이전의 시간"/>
+	<phrase i="394" t="카타카나"/>
+	<phrase i="395" t="통화지속 톤"/>
+	<phrase i="396" t="용무 중"/>
+	<phrase i="397" t="재실외출중"/>
+	<phrase i="398" t="에이전트 온라인"/>
+	<phrase i="399" t="전환"/>
+	<phrase i="400" t="1-&gt;Aa"/>
+	<phrase i="401" t="A-&gt;a1"/>
+	<phrase i="402" t="a-&gt;1A"/>
+	<phrase i="403" t="이름표시"/>
+	<phrase i="404" t="라인 정보"/>
+	<phrase i="405" t="라벨"/>
+	<phrase i="406" t="키패드 로그인 시작"/>
+	<phrase i="407" t="통화 불능"/>
+	<phrase i="408" t="수화기를 들어주십시오"/>
+	<phrase i="409" t="대기상태"/>
+	<phrase i="410" t="통화대기"/>
+	<phrase i="411" t="대기 중인 통화연결"/>
+	<phrase i="412" t="그룹 통화연결"/>
+	<phrase i="413" t="통화연결"/>
+	<phrase i="414" t="홈"/>
+	<phrase i="415" t="재활성"/>
+	<phrase i="416" t="마지막 통화 재연결"/>
+	<phrase i="417" t="마지막 통화 재연결"/>
+	<phrase i="418" t="통화 기능"/>
+	<phrase i="419" t="강제전송"/>
+	<phrase i="420" t="헤드폰"/>
+	<phrase i="421" t="에이전트 대기"/>
+	<phrase i="422" t="ACD 로그인 로그아웃"/>
+	<phrase i="423" t="로그인"/>
+	<phrase i="424" t="로그아웃"/>
+	<phrase i="425" t="대기중"/>
+	<phrase i="426" t="대기불능"/>
+	<phrase i="427" t="사용자"/>
+	<phrase i="428" t="패스워드"/>
+	<phrase i="429" t="통화연결"/>
 </phrases>
